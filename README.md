@@ -24,6 +24,7 @@
     
 - Negation types
     Train:
+  
 | type | total count | entailment 1 | neutral/contr 0 |
 | --- | --- | --- | --- |
 | lex | 93 (2.83%) | 19 (20.43%) | 74 (79.57%) |
@@ -31,6 +32,7 @@
 | syn | 2953 (89.89%) | 347 (11.75%) | 2606 (88.25%) |
     
     Test:
+    
 | type | total count | entailment 1 | neutral/contr 0 |
 | --- | --- | --- | --- |
 | lex | 49 (3.85%) | 12 (24.49%) | 37 (75.51%) |
