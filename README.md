@@ -3,6 +3,7 @@
 
 ### Merged
 - **Train ([20.80%] 4139/19899)**
+  ```
     **>> Premises with negation:** **2050 (10.30%)**
     entailment_judgment
     0    76.39%
@@ -11,8 +12,9 @@
     entailment_judgment
     0    84.37%
     1     15.63%
-    
+  ```
 - **Test ([20.86%] 1712/8206)**
+   ```
     **>> Premises with negation: 943 (11.49%)**
     entailment_judgment
     0    77.09%
@@ -21,7 +23,7 @@
     entailment_judgment
     0    81.76%
     1     18.24%
-    
+  ```
 - Negation types
     Train:
   
