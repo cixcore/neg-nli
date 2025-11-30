@@ -1,7 +1,7 @@
 
 # Negation Stats    
 
-### Merged
+## Merged
 - **Train ([20.80%] 4139/19899)**
   ```
     >> Premises with negation: 2050 (10.30%)
@@ -44,7 +44,7 @@ Test:
 
 
   
-### **InferBR**
+## **InferBR**
 - **Train ([23.65%] 1986/8399)**
 ```
     >> Premises with negation: 788 (9.38%)
@@ -74,7 +74,7 @@ Test:
 ```
     
 
-### ASSIN
+## ASSIN
 - **Train ([20.40%] 1020/5000)**
 ```
     >> Premises with negation: 689 (13.78%)
@@ -104,7 +104,7 @@ Test:
 ```
     
 
-### ASSIN 2
+## ASSIN 2
 - **Train ([17.43%] 1133/6500)**
 ```
     >> Premises with negation: 573 (8.82%)
