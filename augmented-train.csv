@@ -1,0 +1,795 @@
+premise,hypothesis,label,negation_type
+"O longa Steve Jobs tem estreia prevista para o ano de 2016, no dia 21 de janeiro.",Steve Jobs não estreia no dia 23 de janeiro nos EUA.,1,syn
+Foi o pior resultado para meses de julho desde 1992.,O resultado não é o pior para julho em todos os anos.,1,syn
+"Haverá sobras das frequências de 1,8 GHz, 2,5 GHz e 3,5 GHz.","Não será vendida toda a faixa de 1,8 GHz.",1,syn
+"Com isso o destaque do Brasil foi o atacante Adriano que, com sete gols, obteve a artilharia.",O atacante Ronaldo não foi o artilheiro da competição.,1,syn
+"Com um jogador a mais no segundo tempo, o Chelsea construiu a vitória.","Com um jogador a mais no segundo tempo, o Chelsea não teve dificuldades para vencer.",1,syn
+O Steven diz que essa nova temporada é uma espécie de The Knick 2.0.,"Não estão a chegar os novos episódios de “The Knick”, mas sim uma nova série que lembra “The Knick” segundo Steven.",1,syn
+"O treinador tem a chance de voltar ao São Paulo, clube que o revelou para o futebol mundial.",O treinador não é o técnico atual do clube que o revelou.,1,syn
+"É a quarta Apple TV, mas é a primeira “bem feita”.",A nova Apple TV não estava bem feita anteriormente.,1,syn
+"Uma pessoa ficou ferida em terra, de acordo com o Corpo de Bombeiros.","Uma pessoa ferida não estava dentro da casa no momento do acidente, segundo os bombeiros.",1,syn
+É importante destacar que realidade aumentada não é a mesma coisa que realidade virtual.,Realidade aumentada não é nada semelhante à realidade virtual.,1,syn
+"O meu golo surgiu numa grande jogada do Brahimi, mas penso que também fiz um bom remate.","A jogada do Brahimi não terminou no seu próprio remate, mas sim em um golo.",1,syn
+O longa é dirigido por Ridley Scott e protagonizado por Matt Damon.,"Dirigido por Ridley Scott, o filme 'O Resgate do Soldado Ryan' não é protagonizado por Matt Damon.",1,syn
+"Após esse período, as chamadas com 8 dígitos não serão mais completadas.",As chamadas com oito dígitos nunca serão mais completadas após esse período.,1,syn
+"A socialite Kim Kardashian, esposa de Kanye West, não abre mão dos vestidos colados e decotados.",A socialite Kim Kardashian não abre mão de usar vestidos colados e decotados em eventos de Natal.,1,syn
+Jennifer contou para Justin em um jantar e fez surpresa.,Jennifer e Justin não fizeram nada oficialmente público sobre o estado civil recente.,1,syn
+"Este não parece ser um cenário admitido pelo CEO da Apple, Tim Cook, em entrevista ao Wall Street Journal.",Nada foi mencionado por Tim Cook numa conferência organizada pelo Wall Street Journal.,1,syn
+"Ele seria apresentado na madrugada desta quinta-feira, mas só assumirá o time no próximo ano.","Ele não assumiria a equipe imediatamente, sendo indicado apenas para o próximo ano.",1,syn
+Françoise Olcay é cônsul honorária na Turquia desde Outubro de 2014.,Nenhuma suspensão de Françoise Olcay como cônsul honorária da França na Turquia ocorreu desde Outubro de 2014 devido a qualquer escândalo relacionado.,1,syn
+"Para tentar trazer a inflação para a meta, o BC elevou a Selic por sete vezes seguidas.",O BC não afirma que elevar a Selic sete vezes já é uma demonstração de seu impacto imediato na inflação.,1,syn
+O furacão está a gerar ventos a velocidades de 320 quilómetros por hora.,Os meteorologistas não afirmam que o furacão não está a causar ventos superiores a 300 quilómetros por hora.,1,syn
+"José Aldo Rebelo Figueiredo nasceu em Viçosa (Alagoas), em 23 de fevereiro de 1956.",José Aldo Rebelo Figueiredo nunca nasceu fora do Brasil.,1,syn
+"A Capcom ainda não revelou o lutador oficialmente, mas há um trailer disponível.",A Capcom ainda não apresentou o elenco completo de lutadores para o lançamento.,1,syn
+"Sobre as duas outras marcas, a Audi e a Skoda, o comunicado é omisso.",Não são mencionados veículos da Audi e Skoda.,1,syn
+A população poderá consultar a pressão arterial e fazer teste de glicemia das 10h às 22h.,A população não poderá consultar a pressão arterial e fazer teste de glicemia antes das 10h ou após as 22h.,1,syn
+O Halu foi descrito por Alberto Méndez como sendo “um computador com um foco”.,Nada no contexto fornecido sugere que o Roni foi descrito por Alberto Méndez.,1,syn
+"Entre os mais afetados são Novo Hamburgo, Taquara e Sarandi.",Novo Hamburgo não foi a cidade menos atingida.,1,syn
+"Quatro edições antes, estava em US$ 3 bilhões.","Quatro edições atrás, a projeção não era de déficit de US$ 84 bilhões.",1,syn
+"O eclipse lunar total, como é esse caso, é composto de duas fases: a penumbral e a umbral.",O eclipse lunar total não é composto apenas de uma fase penumbral.,1,syn
+O governo do Amazonas informou que vai reforçar as ações de prevenção e combate às queimadas.,"Além disso, não serão negligenciadas ações de prevenção às queimadas e incêndios pelo governo do Amazonas.",1,syn
+Meu mandato parece não ter o apoio de todo mundo.,Blatter não recebeu apoio de todos os membros da FIFA.,1,syn
+"Eu coordenava, na realidade, a equipe de geologia.",Eu não trabalhava com ciência atmosférica.,1,syn
+A Unimed Paulistana é a única cooperativa do sistema que oferece planos de saúde na cidade de São Paulo.,Não há indicação de suspensão nas vendas de planos de saúde da Unimed Paulistana baseada na informação dada.,1,syn
+"Já nas faixas expressas, passa de 90km/h para 70 km/h.","Em vias expressas, o limite não seria inferior a 70 km/h.",1,syn
+"A prevalecer o que disse Cunha, o operador confirmará à força-tarefa da Lava Jato que entregou o dinheiro.","Alguém está sendo investigado pela Operação Lava Jato, da Polícia Federal.",1,syn
+"Além da dificuldade científica e da segurança, há ainda a questão política, que é determinante para o financiamento da viagem a Marte.",Não existem apenas dificuldades científicas para que se faça uma viagem a Marte.,1,syn
+"Há 30 anos, a trilogia Back To the Future antecipou como íamos viver no futuro.",A trilogia cinematográfica Back To the Future contribuiu para imaginarmos o futuro.,1,syn
+"A estimativa de inflação deste ano (IPCA) recuou para 9,28%.",A estimativa para a alta do IPCA neste calendário não permaneceu a mesma.,1,syn
+O dia 24 de outubro marcou o Dia das Nações Unidas.,Não se pode afirmar que o 24 de outubro marca sempre um evento sem importância ou valor.,1,syn
+Foi realizada perícia no local e imagens de câmeras de segurança estão sendo solicitadas.,Imagens de câmeras de segurança instaladas na região ainda não foram obtidas.,1,syn
+"Quem usa versão normal do Tinder, poderá dar apenas um Super Like por dia.",O Tinder não afirmou que usuários da versão normal podem dar múltiplos Super Likes por dia.,1,syn
+"O atacante Neymar está fora da Copa América, que está sendo disputada no Chile.",Neymar não participará de nenhum jogo da Copa América.,1,syn
+Ouvi Carlos César dizer que votar no Bloco de Esquerda é votar na direita.,Ninguém que vota no Bloco de Esquerda está realmente votando na esquerda.,1,syn
+Podemos tornar-nos o primeiro país do mundo a legalizar o casamento 'gay' por referendo.,Ninguém pode afirmar que o casamento gay já está legalizado por referendo.,1,syn
+O clube carioca não terá o zagueiro Gum contra o Palmeiras.,O clube carioca não contará com o zagueiro Gum entre os titulares quando enfrentar o Palmeiras.,1,syn
+"No comparativo anual, o PIB italiano aumentou 0,9% entre Julho e Setembro de 2015.","Nenhuma outra economia europeia teve o mesmo crescimento de 0,9% que o PIB italiano entre Julho e Setembro de 2015.",1,syn
+"Mas até foi do outro lado, o de Brahimi, que surgiu o primeiro golo, aos 39'.","O golo não surgiu de uma jogada coletiva impressionante, e não foi marcado com um remate perfeito.",1,syn
+"A apresentação seguinte é a do romântico Seal, que será seguida das baladas de Rod Stewart.",A programação do Palco Mundo não terá Elton John.,1,syn
+"De junho para julho, o IPC desacelerou de 5,47% para 0,52%.","Indicador não ficou em 5,69%, ante 5,67% em junho.",1,syn
+"Pato falou, o Luis falou também, mas não teve uma coisa para extrapolar.","Pato não contribuiu de maneira eficaz, e Luis também não conseguiu dar continuidade às jogadas.",1,syn
+O árbitro Sandro Meira Ricci entendeu que o jogador se jogou e mandou seguir a partida.,O árbitro Sandro Meira Ricci não marcou pênalti.,1,syn
+"Seja em trailers ou imagens promocionais, nos últimos meses temos visto uma quantidade boa dos personagens do novo episódio de Star Wars.",O filme não será lançado sem nenhuma divulgação de personagens novos.,1,syn
+"Porque desviar asteroides no braço é algo frequente no cinema, mas nunca nem remotamente testado na vida real.",Ninguém tentou desviar um asteroide de verdade como teste.,1,syn
+A torcida do Palmeiras passou meses pedindo para que Gabriel Jesus tivesse mais chances no time.,Gabriel Jesus não vinha sendo colocado como titular com frequência.,1,syn
+"O objetivo era apenas promover o novo filme da saga “Star Wars”, que estreia em dezembro.",Star Wars: O Despertar da Força não estreia em novembro.,1,syn
+A força da detonação fez desabar o edifício onde se localizava o restaurante.,O estabelecimento colapsou e não deixou ninguém ferido no armazém adjacente que continha material explosivo.,1,syn
+Uma ala do complexo foi reservada aos alvos da Lava Jato.,Nem todos os alvos da Lava Jato estão na ala reservada do complexo.,1,syn
+Foi a única vez que a Dinamarca ganhou em Portugal.,A Dinamarca não vai querer perder a única vitória que teve em Portugal e vamos tentar contrariar isso.,1,syn
+Scolari treinou a selecção de futebol entre 2003 e 2008.,Scolari não treinava a seleção de futebol em 2010.,1,syn
+"René comandou o Figueira em oito partidas e obteve três vitórias, quatro derrotas e um empate.",René Simões não esteve à frente do Figueira em nenhuma outra partida além das oito mencionadas.,1,syn
+"Gleison Vieira da Silva, 17 anos, foi espancado até a morte.",Gleison não foi espancado até a morte por ninguém.,1,syn
+O ativista angolano Luaty Beirão diz que o julgamento é 'um teatro'.,Luaty Beirão não acredita que o julgamento em que está envolvido em Luanda é justo.,1,syn
+"Está a circular na Internet uma cópia do contrato que, alegadamente, Jorge Jesus assinou com o Sporting a 5 de junho.",Nenhuma fonte revelou o alegado contrato de trabalho de Jorge Jesus com o Sporting esta quarta-feira.,1,syn
+E encerrou falando sobre o confronto com o Real Madrid e a tensão do jogo.,Real Madrid e Atlético não jogaram recentemente uma final europeia.,1,syn
+Ele conta com uma memória RAM de 2 GB e 16 GB de armazenamento interno.,A versão com 2 GB de RAM e 16 GB de armazenamento não custa mais de R$ 945.,1,syn
+"Um dos adolescentes joga o capacete em direção ao policial, que reage com disparos.",As imagens não mostraram o policial não reagindo aos adolescentes.,1,syn
+"Youssef foi preso quando a Operação Lava Jato foi deflagrada, em março do ano passado.",Youssef não foi preso em nenhuma fase da Operação Lava Jato que ocorreu após março do ano passado.,1,syn
+"Porém, para que essa medida passe a valer, a presidente Dilma Rousseff precisa vetar o texto aprovado na Câmara.",O texto não aguarda mais decisão da presidente Dilma Rousseff sobre sanção ou veto.,1,syn
+"Ou seja, essa é mais uma dica para os consumidores começarem a se preocupar e realmente desinstalarem o Adobe Flash.",A Adobe não está mais oferecendo suporte ao Flash.,1,syn
+E com ele o Flamengo sacramentou a virada por 2 a 1 sobre o São Paulo.,O jogo não foi suficiente para o São Paulo do técnico Osorio vencer novamente.,1,syn
+Os novos iPhones 6s e 6s Plus vão chegar a Portugal no dia 9 de outubro.,Os novos iPhones 6s e 6s Plus não chegaram antes de outubro a Portugal.,1,syn
+O ensino superior privado teve este ano um aumento na procura de 30%.,A procura pelo ensino superior privado não corresponde somente aos cursos tradicionalmente oferecidos por este setor.,1,syn
+"Após acordo, presidência da comissão ficará com PMDB e relatoria, com PR.",Afirmou que o PMDB não assumiria a relatoria desta comissão.,1,syn
+"Em todas as versões, o volante multifuncional do sedã traz novo acabamento em cinza Very Dark Sleek Silver.","Em todas as versões, nunca falta o volante multifuncional com acabamento em cinza Very Dark Sleek Silver, mesmo nas sem MyLink.",1,syn
+A quadra só começou a encher por volta de 0h.,A apresentação das parcerias finalistas não começou antes de 0h.,1,syn
+"Jayde Pierce, uma modelo britânica apontada como o novo affair de Bieber, também estava presente.",A presença da modelo e youtuber Jayde Pierce não passou despercebida pelos fãs presentes.,1,syn
+"Seja qual for o resultado do jogo desta quarta, o Grêmio seguirá na terceira colocação do Campeonato Brasileiro.","O Grêmio não perdeu a terceira colocação no Campeonato Brasileiro, nesta quarta-feira.",1,syn
+A autorização foi publicada no Diário Oficial da união desta quarta-feira.,A decisão não consta na autorização publicada no Diário Oficial da União.,1,syn
+"Os espanhóis protagonizaram a outra vitória expressiva do mesmo grupo, ao vencerem em casa o Astana por 7-1.",Os sub-19 do Benfica nunca haviam vencido o Astana por 7-1 em casa.,1,syn
+"Entre eles encontra-se o humorista Nuno Markl, solidário com estes pais na casa dos 30 anos.","Nuno Markl, que nunca deixou de apoiar outros pais, também esteve solidário com eles.",1,syn
+A razão para que tal aconteça é o método de Hondt.,Nada do que foi decidido se afastou dos critérios do método de Hondt.,1,syn
+"Fernando Santos promoveu a estreia de quatro jogadores nas seleção A de Portugal, na derrota por 1-0 frente a Rússia.","Quando o relógio marcava 72 minutos, nenhum dos jogadores que Fernando Santos promoveu a estreia estava mais em campo.",1,syn
+"O Brasil exportou para o país US$ 27 bilhões, em 2014.",Não foi em 2014 que o Brasil recebeu o maior número de investimentos diretos dos EUA.,1,syn
+O Nexus 5X e o 6P ainda não têm data de lançamento.,E o 6P não foi lançado ainda.,1,syn
+A outra bateria das quartas de final terá Mick Fanning contra Bede Durbridge.,Ítalo Ferreira não competirá na mesma bateria que o australiano Bede Durbidge e Mick Fanning.,1,syn
+O Instagram alcançou a marca de 300 milhões de usuários em dezembro passado.,O Instagram não conta com 400 milhões de usuários hoje.,1,syn
+O Fluminense eliminou o Grêmio empatando fora de casa.,O Grêmio não conseguiu se classificar.,1,syn
+"Em 2015, o setor acumula uma queda de 16% nas vendas.",As vendas do comércio varejista brasileiro não acumulam crescimento.,1,syn
+"O Dia da Rússia, feriado nacional na Rússia, será comemorado no dia 12 de junho.",Putin não irá inaugurar hoje o Dia da Rússia na Expo 2015 porque o evento não ocorrerá no dia 12 de junho.,1,syn
+Novos smartphones da Apple trazem dois recursos exclusivos e bastante interessantes: Live Photos e 3D Touch.,Os Novos smartphones da Apple nunca tiveram o 3D Touch como responsável pela adição das Live Photos aos aparelhos.,1,syn
+"Daniel Scioli vai em primeiro lugar nas sondagens, seguido pelo presidente da Câmara de Buenos Aires.",Ninguém pode afirmar com certeza que as sondagens sempre acertam nas previsões eleitorais em Buenos Aires.,1,syn
+"O medo está neste momento instalado no Aeroporto de Gatwick, no sul de Londres.",Não há evidências de que haja pânico em Heathrow neste momento.,1,syn
+"Do ponto de vista da autoestima, faz muito tempo do último título do Grêmio.",Não faz muito tempo do último título que presenciei no Grêmio.,1,syn
+"A semana foi pautada pelo Fed, com a cautela sobre a alta dos juros nos Estados Unidos.",Não há garantias de que o Fed não elevará os juros em breve.,1,syn
+"Em março, nova resolução adiou a legislação para 1º de junho.","Em março, uma resolução não definiu a legislação para uma data anterior a 1º de junho.",1,syn
+O atacante Luis Fabiano e o meia Michel Bastos cumpriram suspensão no fim de semana e estão à disposição do treinador.,Luis Fabiano e Michel Bastos não estarão mais suspensos na próxima partida.,1,syn
+"As imagens foram recolhidas nas linhas do Norte, do Oeste, do Douro, de Sintra e de Cascais.",Não é possível afirmar que apenas uma das linhas recolhidas proporciona imagens impressionantes.,1,syn
+Saiba quais são os famosos que poderão entrar no reality show.,Nenhum famoso que mora no campo será convidado para este reality show.,1,syn
+"O Presidente francês vai a Washington na quarta-feira e a Moscovo, na quinta.",O presidente francês não visita nenhum outro país além de Washington e Moscovo nesta semana.,1,syn
+"A renovação está entregue ao presidente, e espero que isso se resolva pelo melhor.",Ninguém discutirá os detalhes da renovação de André Carrillo publicamente.,1,syn
+"Ao final do debate, Hillary Clinton foi considerada vencedora de acordo com a CNN.","Hillary Clinton, apesar de considerada vencedora, não estava na posição central durante o debate.",1,syn
+"Nas redes sociais, uma dificuldade é magnificada.","As redes sociais frequentemente intensificam problemas, mas isso não significa necessariamente que o Inep não toma medidas adequadas para monitorar essas plataformas.",1,syn
+"Até agora, o planejado acordo prevê penas de prisão entre cinco e oito anos para os delitos graves.","Até agora, ninguém foi punido sob o planejado acordo com penas de cinco a oito anos para delitos graves.",1,syn
+"A última passagem da banda por Portugal foi em julho deste ano, quando atuaram no Super Bock Super Rock.","Os dEUS não estiveram em solo português em nenhum outro mês deste ano além de julho, no Super Bock Super Rock.",1,syn
+Foi quando o torcedor alvinegro descobriu que o árbitro Sandro Meira Ricci poderia aprontar.,O árbitro Sandro Meira Ricci já havia prejudicado o torcedor alvinegro antes.,1,syn
+"O escurecimento não pode ser devido a outra estrela, também, ou os cientistas a teriam visto.","Nada além do próprio objeto pode provocar tal escurecimento, ou os cientistas já teriam identificado outra causa.",1,syn
+A campanha é da responsabilidade da Sociedade Portuguesa do Acidente Vascular Cerebral (SPAVC).,"A campanha não é um esforço individual, mas sim coletivo da Sociedade Portuguesa do Acidente Vascular Cerebral.",1,syn
+Lionel Messi mora em Barcelona desde 2000 e obteve cidadania espanhola em 2005.,Lionel Messi nunca viveu permanentemente fora da Espanha desde o ano 2000.,1,syn
+O intervalo entre a primeira e a segunda dose deve ser de 180 dias.,Não deve haver uma diferença maior que cinco anos entre a primeira e a terceira dose.,1,syn
+A barra da Figueira da Foz vai ser reaberta este domingo apenas para a saída dos quatro navios que estão no interior do porto.,A barra da Figueira da Foz não está aberta para a entrada de novos navios neste domingo.,1,syn
+O Tesla Model X foi finalmente apresentado por Elon Musk.,"Na nova fábrica da Tesla, não são montados diariamente 90 novos Model X.",1,syn
+A Chevrolet lançou hoje (09) uma nova série especial para seu sedã compacto.,A Chevrolet não lançou hoje a linha 2016 do sedã compacto Prisma.,1,syn
+"Grazi não pode revelar o final da personagem, mas garantiu que “muita coisa vai acontecer ainda”.",Nada pode ser revelado sobre a participação da Grazi em um grande papel até o final da história.,1,syn
+"A parceria entre Uderzo e Goscinny, os criadores originais, acabou em 1977.","Albert Uderzo, não esteve presente na apresentação desde o término da parceria em 1977.",1,syn
+"Na segunda etapa, com os reservas, Matheus Sávio e Douglas Baggio ampliaram.",Nenhum titular ampliou o placar na segunda etapa com os reservas.,1,syn
+A paralisação será total e no mesmo dia haverá uma nova assembleia para decidir os rumos da greve.,Não haverá qualquer iniciativa dos metroviários para organizar uma paralisação.,1,syn
+Só não marcou aos 21 minutos porque Claudio Bravo fez grande defesa.,Ele não marcou o gol aos 21 minutos do primeiro tempo.,1,syn
+Rihanna escolhe look transparente para jantar em churrascaria na Zona Sul.,Rihanna não janta sozinha na churrascaria.,1,syn
+Uma mulher terá tentado abrir uma das portas de um avião da British Airways.,O avião da British Airways não enfrentou nenhuma ameaça à segurança apesar do incidente com a porta.,1,syn
+"Ele chegou a dizer que o Brasil deveria levar um 'chute no traseiro', por causa dos atrasos.",Ele nunca mais comentou publicamente sobre dar um 'chute no traseiro' no Brasil.,1,syn
+"Desde o começo do ano, o índice acumula alta de 6,83%.","Nos últimos 12 meses, o índice não acumula alta de 20%.",1,syn
+"Aos 48 anos, Pamela Anderson arrasa em sessão fotográfica nua.",Pamela Anderson não aparece nada discreta na sua mais recente sessão fotográfica.,1,syn
+O sorteio dos grupos para a fase final será a 12 de Dezembro.,Portugal não participará do sorteio para a fase final.,1,syn
+"Ao início da noite, o PAN surgiu numa lista de candidaturas de pequenos partidos com hipóteses de eleger um deputado.","O PAN, que ainda não garantiu a eleição de um deputado, tem um programa eleitoral com 160 pontos.",1,syn
+O limite de 140 caracteres do Twitter poderá brevemente ser coisa do passado.,O limite de caracteres do Twitter pode não ser mais restrito em atualizações futuras.,1,syn
+"Ricky Álvarez voltou hoje, dia 17 de Setembro, a ser associado à equipa do Futebol Clube do Porto.",Ricky Álvarez não voltou ao Futebol Clube do Porto para ocupar uma posição de treinador.,1,syn
+"Desenvolvida pela Sioux, a versão digital de 'War' mantém o estilo de jogo do original.",Nenhuma plataforma não oferece interação em realidade aumentada para a versão digital de 'War'.,1,syn
+"Maccabi Telavive soma segundo desaire seguido, depois de perder com o FC Porto, para a Champions.","O Maccabi Telavive não permanece invicto, após desaires consecutivos na Champions.",1,syn
+Moda é uma grande parte de Lady Gaga e as pessoas querem vê-la de um jeito.,Poucas pessoas não associam Lady Gaga a um estilo único de arte e moda.,1,syn
+"O cantor e compositor escocês Jim Diamond morreu hoje aos 64 anos, na sua casa em Londres.","Jim Diamond nunca mais lançará novas músicas, pois faleceu.",1,syn
+A suspensão provisória do processo está prevista no Código de Processo Penal e vulgarizou-se no caso Furacão.,A suspensão provisória do processo não é exclusiva da Operação Furacão.,1,syn
+"Agora, é a coligação que está à espera que o PS diga o que pretende.",O PS não pôs-se numa posição ativa.,1,syn
+O diretor Cláudio Assis voltou a ser vaiado no evento.,"Cláudio Assis, desta vez, porém, não saiu ileso das vaias.",1,syn
+O Corinthians também deixou de lado um reconhecimento a Cássio.,O reconhecimento a Cássio nunca foi mencionado pelo Corinthians.,1,syn
+"Todas as esculturas de cera mostram o James Bond clássico, vestindo smoking.",Nenhuma das esculturas de cera mostra o mais recente James Bond.,1,syn
+Espero que corra tudo bem e que conquistem um título.,Não espero que algo esteja a correr mal.,1,syn
+"Danilo e Ralf eram os próximos da fila, mas não acertaram suas transferências e permaneceram.",Danilo não tem expectativa de acerto no momento.,1,syn
+"Esta nova versão inclui dicionários temáticos totalmente revistos, incorporando uma nova edição do Dicionário Priberam.",Esta nova versão não chegou ao mesmo tempo que a primeira edição do Dicionário Priberam lançado em 1997.,1,syn
+"O galego Alberto Pardo Touceda, natural de Pontevedra, vive em França há três anos.","Natural de Pontevedra, Alberto não viveu sua vida toda na França.",1,syn
+Phil Spencer foi bastante simpático em sua apresentação.,Ele não criticou ninguém em sua apresentação.,1,syn
+"Se mantiver o ritmo, com 11 mil contratos, o BC poderá rolar 100% dos contratos.",O BC não deixará de rolar 100% dos contratos se mantiver o ritmo.,1,syn
+Só porque eu sou contra a brutalidade policial não significa que eu seja contra os policiais.,Ser contra a brutalidade policial não implica ser contra todos os policiais.,1,syn
+Parece que o Google realmente não está pronto para desistir do Glass.,Não parece que o Google tenha desistido do Glass.,1,syn
+"O PSG venceu o Marselha (2-1), este domingo, na partida que encerrou a nona jornada da Ligue 1.",O PSG não perdeu este domingo em casa para o Olympique de Marselha.,1,syn
+Acho que chegaremos a um resultado que muito provavelmente vai ultrapassar US$ 12 bilhões.,Não acredito que não chegaremos a um resultado inferior a US$ 12 bilhões.,1,syn
+Ele declarou não temer a representação articulada pelo PSOL no Conselho de Ética da Casa.,Ninguém pode afirmar que o processo será automaticamente rejeitado pelo Conselho de Ética.,1,syn
+"Ela foi casada com o cantor Latino por um período muito curto, 1 ano e 4 meses.",A moça não está mais casada com o cantor Latino.,1,syn
+"Pelo que se vê na telona, imagina-se que não deve ter sido nada fácil.",Não deve ter tido nenhuma facilidade no que foi produzido para a telona.,1,syn
+"Entre janeiro e abril, os preços de energia subiram 38,12%.","Não houve um aumento mensal constante maior do que 38,12% entre janeiro e abril.",1,syn
+"Simão Sabrosa esteve em destaque na equipa do NorthEast United, ao desatar o nó no encontro frente ao Chennaiyin, na liga indiana.",Simão Sabrosa contribuiu para que o NorthEast United finalmente não saísse derrotado na liga indiana.,1,syn
+"Estava me divertindo, até que aconteceu a quebra.",Nada mais foi divertido depois da quebra.,1,syn
+"O secretário-geral da FIFA, Jerome Valcke, foi suspenso pela FIFA e libertado das suas funções por tempo indeterminado.",Valcke não está atualmente no cargo de secretário-geral da FIFA.,1,syn
+A Polícia Judiciária tem 850 processos relativos a crimes informáticos ainda por resolver.,A Polícia Judiciária não resolve rapidamente todos os processos de crimes informáticos.,1,syn
+Cerca de 1 mil pessoas participavam no festival 'Color Play Asia' no parque aquático.,Nada foi dito sobre a polícia ter interrogado alguém no festival Color Play Asia.,1,syn
+O Cruzeiro empatou nesta quarta-feira (16) com o Vasco no Mineirão por 2 a 2.,"Vasco e Cruzeiro não jogaram no domingo passado, às 17h, no Mineirão.",1,syn
+Aung San Suu Kyi foi Prémio Nobel da Paz em 1991 e esteve sob detenção durante mais de 15 anos.,Aung San Suu Kyi não esteve livre durante a maior parte das duas décadas após receber o Prémio Nobel da Paz.,1,syn
+"Ela alcançou 38 pontos, os mesmos do quarto colocado Flamengo, que entrará em campo no domingo.","O clube não ocupa a sexta colocação porque a pontuação é a mesma do Flamengo, quarto.",1,syn
+O horário de inauguração da ponte Anita Garibaldi será às 11h.,A inauguração da Ponte Anita Garibaldi não será em outro horário além das 11h.,1,syn
+"O FC Porto venceu o Benfica (30-25), esta quarta-feira, em jogo da sétima jornada do Nacional de andebol.",O FC Porto não perdeu para o Benfica (30-25) no encontro realizado na sétima jornada do Nacional de andebol.,1,syn
+Isto depois de Passos Coelho ter sido chefe de Governo na passada quinta-feira por Cavaco Silva.,Pedro Passos Coelho já não é o chefe de Governo desde a última quinta-feira.,1,syn
+‘Perdido em Marte‘ chegará aos cinemas em 1º de Outubro de 2015.,Perdido em Marte não estreia nos cinemas em 1º de dezembro deste ano.,1,syn
+Nico Rosberg pode sofrer a punição de 10 posições no grid para o GP de Cingapura.,Nico Rosberg não conseguiu escapar de uma possível punição para o GP de Cingapura.,1,syn
+"O nível do manancial, no entanto, caiu de 89,6% para 89,5% nesta sexta-feira.","Não houve nenhuma redução significativa no nível do manancial, como cair de 89,6% para 75%.",1,syn
+Jordan Pitre coloca o FC Porto na frente pela primeira vez.,"O FC Porto não estava liderando antes, mas agora está na frente.",1,syn
+"No primeiro trimestre deste ano, a Petrobras registrou lucro líquido de R$ 5,3 bilhões.","A Petrobras não registrou prejuízo líquido de R$ 5,3 bilhões no primeiro trimestre deste ano.",1,syn
+Ricardo Quaresma começou o jogo no banco de suplentes dos turcos.,Ricardo Quaresma não começou como titular no jogo da equipa turca.,1,syn
+"Ao longo do ano, uma série de acontecimentos perturbaram as relações bilaterais.",Não houve uma melhora significativa nas relações bilaterais que precisa ser explorada.,1,syn
+O senador Renan Calheiros nunca participou de nenhuma reunião com empreiteiros.,O senador Renan Calheiros nunca teve interação direta com empreiteiros.,1,syn
+"O aviso, o segundo mais grave de uma escala de quatro, vigora entre as 9h00 e as 21h00.",Os avisos não decorrem entre as 21h01 e as 8h59.,1,syn
+"O cestinha da partida, apesar da derrota, foi o sérvio Teodosic, que anotou 16 pontos.",Ninguém superou Teodosic em pontuação na partida.,1,syn
+O meu pior medo é que alguém como Pep Guardiola seja o próximo treinador do Manchester United.,Ninguém deseja que o Manchester United seja liderado por um treinador que não esteja à altura do clube.,1,syn
+"Depois ter saído lesionado no encontro deste domingo frente ao Vitória de Guimarães, o Sporting revelou que Bryan Ruiz vai parar duas semanas.",Bryan Ruiz não se lesionou antes da partida deste domingo com o V. Guimarães.,1,syn
+A receita fiscal líquida acumulada do Estado ascendeu a 29.016 milhões de euros até setembro.,A receita fiscal não ascendeu a 30.000 milhões de euros até setembro.,1,syn
+"A empresa está sendo acusada de usar uma patente registrada em 1998 pela Universidade de Wisconsin, nos Estados Unidos.",A empresa não havia sido processada antes de 1998 devido à mesma patente.,1,syn
+"Tal como o BQ Aquaris X5, também entrarei em mais detalhes sobre o BQ Aquaris M10 na próxima semana.","Não, nunca incluirei detalhes sobre os novos BQ Aquaris X5 e BQ Aquaris M10 antes da próxima semana.",1,syn
+Uma mulher está passando sombra,A mulher não está aplicando batom.,1,syn
+Uma senhora está cortando carne em pedaços,A mulher não está cozinhando a carne neste momento.,1,syn
+Um adolescente está tocando o violão,Um adulto não está tocando um violão.,1,syn
+Um homem está perdendo a bola de futebol de campo,Um homem não está mantendo controle total da bola de futebol.,1,syn
+Algumas mulheres não estão falando,Nenhuma mulher está falando.,1,syn
+A pessoa não está praticando o violão,A pessoa não está praticando tocar violão,1,syn
+Um homem está se exercitando,Um homem não está dormindo.,1,syn
+Furões estão escalando prateleira acima,Nenhum furão está escalando dentro da gaiola.,1,syn
+Uma pessoa está removendo vegetais picados de uma panela no fogão,Uma pessoa não está adicionando vegetais picados em uma panela no fogão.,1,syn
+Um homem está pulando atleticamente uma parede,Um homem não está parado em uma parede baixa.,1,syn
+Um pimentão está sendo cortado em pedaços por uma pessoa,Uma pessoa não está cortando uma melancia em pedaços.,1,syn
+Alguém está alimentando um animal,Ninguém está construindo uma casa.,1,syn
+Várias pessoas estão comendo em mesas vermelhas em um restaurante com luzes roxas lotado,Um grupo de pessoas não está comendo em um restaurante vazio.,1,syn
+Não tem nenhuma criança brincando e esperando,Não há crianças da família brincando ou esperando.,1,syn
+Um lêmure está comendo,Um lêmure não está descansando.,1,syn
+A mulher está comendo,Uma mulher não está cozinhando peixes.,1,syn
+Uma bola feita de madeira está sendo jogada pela porta em frente a um grande grupo de meninos,As crianças não estão deixando a bola de madeira parada em frente à porta.,1,syn
+"Uma mulher, que é velha, está longe de um cachorro branco","Uma mulher, que é velha, não está perto de um cachorro branco",1,syn
+Um homem está conversando,Um homem não está cantando.,1,syn
+O papagaio está falando no microfone,O papagaio não está silencioso em frente ao microfone,1,syn
+Uma mulher está vestindo uma touca egípcia,Não é um homem egípcio que está vestindo uma touca de mulher.,1,syn
+Uma mulher está passando maquiagem cuidadosamente,A mulher não está saindo da loja.,1,syn
+Não tem nenhuma criança segurando uma pistola de água,Não há criança segurando uma pistola de água,1,syn
+Uma mulher está picando brócolis,A mulher não está picando cenoura.,1,syn
+Dois homens estão segurando bicicletas e parados ao lado de uma estrada coberta de neve,Dois homens estão fazendo uma pausa da viagem em uma estrada nevada.,1,syn
+Um homem está falando,Um homem não está em silêncio.,1,syn
+Um homem está caminhando do lado de fora,Um homem não está deitado.,1,syn
+Uma menina está nua e está de pé na grama,Uma menina não está usando uma camisa rosa que tem escrita branca e não está sentada na grama.,1,syn
+Um avião de desenho animado está decolando,Um avião de desenho animado não está no solo.,1,syn
+Uma criança está perdendo uma bola de beisebol,Uma criança não está segurando uma bola de beisebol.,1,syn
+Uma pessoa está escovando um gato,Uma pessoa não está deixando o pelo de um gato intacto.,1,syn
+Uma mulher está quebrando um ovo em uma tigela,A mulher não está quebrando nada além de um ovo.,1,syn
+Um gato está bebendo leite avidamente,O gato não está sem sede.,1,syn
+Não tem nenhuma mulher cortando uma cebola,Nenhuma mulher está cortando cebolas em cubos,1,syn
+Um violão está sendo tocando por um homem,Nenhum homem está tocando uma flauta enquanto está tocando o violão.,1,syn
+Uma mulher está colocando maquiagem,Uma mulher não está tirando maquiagem.,1,syn
+Um avião está pousando,Um avião não está voando em altitude de cruzeiro.,1,syn
+Um homem está caminhando do lado de fora,Um homem não está nadando.,1,syn
+Um homem está tocando um trompete,O homem não está tocando outro instrumento além do trompete.,1,syn
+Um pai está jogando a filha na piscina,Um pai não está colocando sua filha em uma piscina.,1,syn
+Uma menina está usando uma camisa rosa que tem escrita branca e está ficando deitada na grama,Uma menina não está nua e não está sentada na grama.,1,syn
+Uma mulher está ralando cenouras,Uma mulher não está plantando cenouras.,1,syn
+Uma mulher não está encenando uma dança,Uma mulher não está dançando.,1,syn
+Um homem está sentado no bosque,O homem não está de pé no bosque.,1,syn
+Um homem está ligando o micro-ondas,Um homem não está desligando o micro-ondas.,1,syn
+Uma harpa está sendo tocada com um chapéu por um homem,Um homem não está tocando um violão com um chapéu.,1,syn
+Pessoas não estão jogando críquete,Ninguém está jogando críquete.,1,syn
+Uma mulher está dirigindo um carro e está conversando com o homem que está sentado ao seu lado,Uma mulher está dirigindo um carro e não está ignorando o homem que está sentado ao lado dela.,1,syn
+O homem tem uma janela de tempo para se limpar,O homem não precisa tomar banho agora.,1,syn
+Um cachorro branco e um cachorro preto estão correndo lado a lado na grama verde,Um cachorro preto e um branco não estão parados na grama.,1,syn
+Um homem está caindo de um cavalo em uma pista e está jogado na natureza,Um homem não está cavalgando em um cavalo numa pista na natureza.,1,syn
+Não tem nenhum time jogando futebol de campo,Não há nenhuma equipe jogando futebol de campo.,1,syn
+Uma mulher está removendo cosméticos de sua pálpebra,A mulher não está aplicando maquiagem.,1,syn
+Um bebê está engatinhando feliz,Um bebê não está chorando.,1,syn
+Algumas pessoas estão flutuando em um bote,Não há pessoas sozinhas flutuando em um bote.,1,syn
+Um canguru está pegando o bebê da mulher,A mulher não está pegando o bebê do canguru.,1,syn
+Não tem nenhum homem falando no palco,Não há homem falando em um palco,1,syn
+Um homem está descansando,Um homem não está correndo.,1,syn
+Duas vacas estão lutando em um pasto perto de um homem,Nenhum homem está lutando em um pasto perto de duas vacas.,1,syn
+Uma mulher está preparando um ovo em uma sautese,Uma mulher não está assando um bolo no forno.,1,syn
+Dois homens com bicicletas estão do lado de uma estrada nevada,Dois homens não estão pedalando em uma estrada nevada.,1,syn
+Não tem nenhum homem fatiando cebola,Nenhuma cebola está sendo cortada por um homem,1,syn
+Um homem está tocando um violão elétrico,Um homem não está tocando bateria.,1,syn
+Duas pessoas estão na neve sem usar roupas que proporcionam camuflagem,"Duas pessoas estão na neve, não usando roupas que oferecem camuflagem",1,syn
+A senhora está fatiando a carne,A senhora não está assando um bolo no forno.,1,syn
+Uma mulher está tirando dois ovos de uma panela com água,Uma mulher não está colocando dois ovos dentro de uma panela sem água.,1,syn
+Um homem está dançando com um capacete usado,Um homem está dançando e não está usando um capacete novo.,1,syn
+Três crianças asiáticas estão dançando e um homem está olhando,Três crianças asiáticas estão dançando e um homem não está olhando para outro lugar.,1,syn
+Uma mulher está pensando em um homem,Uma mulher não está pensando em outro homem.,1,syn
+Tofu está sendo fatiado por uma mulher,Uma mulher não está cortando a manteiga.,1,syn
+A mulher está dançando,Nada indica que o homem está dançando.,1,syn
+Um pedaço de madeira está sendo parafusado a uma parede por um homem,Um homem não está pintando uma casa.,1,syn
+Dois homens estão segurando um pouco de água em pé perto das varas de pesca,Dois homens não estão segurando varas de pesca e estão de pé perto da água.,1,syn
+A bola está sendo enterrada por um homem com uma camisa de time em um jogo de basquete,O jogador está enterrando a bola de basquete e uma multidão não está ao fundo.,1,syn
+Um animal está correndo em círculos,Não há certeza de que um esquilo não está correndo em círculos.,1,syn
+Uma pessoa que está praticando snowboard cai pelo ar,O praticante de snowboard não está parado na neve.,1,syn
+Um menino em um morro coberto de neve está vestindo uma blusa vermelha e um chapéu preto e deslizando nos seus joelhos,Alguma criança está escorregando na neve.,1,syn
+Alguém está tocando o violão,Nenhuma mulher está guardando um violão.,1,syn
+Duas crianças jovens estão comendo enroladinhos,Duas crianças jovens não estão comendo nada além de enroladinhos.,1,syn
+Os dados de cor laranja estão sendo lançados por um cozinheiro para ganhar a pimenta,Um cozinheiro não está lançando pimentas.,1,syn
+Uma pessoa está tocando o violão e cantando,Uma pessoa não está tocando um violão elétrico e cantando.,1,syn
+Dois homens com um cachorro estão entediando uma multidão de pessoas,Os dois homens não estão fazendo algo interessante na frente de todos.,1,syn
+Ninguém está praticando salvamento na água e usando coletes salva-vidas,Ninguém deste grupo de pessoas está praticando salvamento na água e usando coletes salva-vidas.,1,syn
+Não há nenhum homem tocando o violão alto,Não há nenhum homem tocando violão alto.,1,syn
+Uma mulher está espremendo um limão,Uma mulher não está espremendo nada além de suco de um limão.,1,syn
+Violão está sendo tocado por dois homens,Dois homens não estão dançando.,1,syn
+Um gato está sentado em um piano,Nada indica que um gato está tocando piano.,1,syn
+Uma criança está tocando um instrumento,Uma criança não está quebrando um instrumento.,1,syn
+O rinoceronte está pastando na grama,Um rinoceronte não está pastando em um deserto.,1,syn
+Uma pessoa não está picando uma cebola,Uma pessoa não está chorando por causa da cebola.,1,syn
+Um menino está de pé em uma sala junto a uma lâmpada,Um menino não está tocando um piano.,1,syn
+Um homem está rindo,Um homem não está chorando.,1,syn
+A mulher está fatiando ervas,A mulher não está guardando o pão.,1,syn
+O carro branco de um homem está sendo levado,Um carro branco não está sendo mantido por um homem.,1,syn
+Não tem nenhum homem fatiando cebola,Não há nenhum homem fatiando uma cebola.,1,syn
+Um cachorro está brincando com um brinquedo,Um cachorro não está mordendo nada que não seja o brinquedo.,1,syn
+O homem está cozinhando fatias de batata,O homem não está colhendo batatas.,1,syn
+Um menino está enchendo um jarro com água,Um menino não está enchendo uma caneca com água.,1,syn
+O homem está embrulhando uma batata,O homem não está descascando a batata.,1,syn
+O animal com olhos grandes está comendo,O animal com olhos grandes não está jejuando.,1,syn
+Uma tortilha está sendo dobrada por uma pessoa,Ninguém além da pessoa está dobrando a tortilha.,1,syn
+Dois meninos estão estudando,Dois meninos não estão jogando vídeo games enquanto estudam.,1,syn
+A foto de um homem está sendo tirada perto de um lago,O homem não está configurando a câmera e tirando fotos do pôr-do-sol no lago.,1,syn
+Um papagaio está falando,Um papagaio não está em silêncio.,1,syn
+"Um cachorro, que é grande e cinza, está derrubando uma bola de sua boca e parando na grama","Um cachorro, que é grande e cinza, não está mais carregando uma bola na boca nem correndo pela grama.",1,syn
+Um menino está pendurando uma vara de pesca e correndo na frente de um peixe,Um menino não está correndo na direção oposta à linha de pesca.,1,syn
+O homem não está escalando para cima de uma corda,Um homem não está escalando para cima em uma corda,1,syn
+Um motociclista de capacete vermelho está andando em uma motocicleta azul pela estrada,O motociclista não está andando de motocicleta sem capacete pela rodovia.,1,syn
+Um menino em um escorregador vermelho e preto está vestindo uma jaqueta e um chapéu e tem seus joelhos cobertos de neve,Nenhuma criança está escorregando sem neve.,1,syn
+Um homem fazendo exercícios está sendo derrubado,O homem não está fazendo exercícios sem interrupções.,1,syn
+Os alunos estão enchendo a sala de aula,Não há assentos suficientes para todos os alunos.,1,syn
+Um homem está disparando uma arma,Um homem não está disparando outro tipo de arma.,1,syn
+Não tem nenhum cachorro latindo,Não há cachorro latindo,1,syn
+Duas equipes estão jogando futebol de campo,Não existem mais do que dois times jogando futebol de campo.,1,syn
+Um homem está descendo uma corda,Um homem não está subindo em uma corda.,1,syn
+Um homem está tocando um piano,Um homem não está tocando outro instrumento.,1,syn
+Dois cachorros de raças diferentes estão se olhando através da rua,Nada está bloqueando a visão dos cachorros ao longo da rua.,1,syn
+Um homem está picando manteiga em um recipiente,Nenhuma criança está picando manteiga.,1,syn
+Uma lata está sendo mordida por um cachorro,Um cachorro não está abrindo uma garrafa.,1,syn
+Uma mulher está misturando ovos,A mulher não está dormindo.,1,syn
+Um gato está se afastando de um pouco de milho,Um gato não está interessado em milho.,1,syn
+Um homem está em silêncio,Um homem não está falando.,1,syn
+Vários nadadores estão pulando na água,Alguns nadadores não estão saindo da piscina.,1,syn
+Uma mulher está praticando wakeboard no lago,A mulher não está praticando paddle boarding.,1,syn
+Um homem está dançando,Um homem não está parado.,1,syn
+Um jogador de pingue-pongue encontra-se com duas pessoas,Duas pessoas não estão jogando pingue-pongue com o jogador.,1,syn
+Um grupo de meninos em um quintal está brincando e um homem está de pé ao fundo,Alguns dos meninos não estão brincando perto do homem que está ao fundo.,1,syn
+Uma mulher está despejando uma mistura em uma tigela e misturando-a,Uma mulher não está deixando de despejar a mistura em uma tigela e não está deixando de misturá-la.,1,syn
+"Um homem de camisa roxa está tingindo de preto outra camisa, que tem estampado um homem olhando para um cachorro fazendo uma cara engraçada",Nenhum homem está fazendo uma pose engraçada enquanto tinge a camisa.,1,syn
+O homem não está mexendo o óleo,O homem não está mexendo o óleo,1,syn
+Não tem nenhum homem despejando óleo em uma frigideira,Não há homem despejando óleo dentro de uma frigideira,1,syn
+A bola de futebol não está entre os pés de um menino que está deitado na grama,Não há nenhuma bola de futebol entre os pés de um menino que está deitado na grama.,1,syn
+Um homem está tocando uma flauta,Um homem não está tocando uma guitarra.,1,syn
+Uma mulher está rachando alguns ovos em um recipiente,Uma mulher não está rachando ovos em uma superfície plana.,1,syn
+Uma mulher está despejando uma mistura em uma tigela e misturando-a,Uma mulher não está brincando de bola na rua.,1,syn
+Não tem nenhum texugo cavando a terra astutamente,Nenhum texugo está cavando a terra astutamente,1,syn
+Uma pessoa está fatiando uma cenoura em pedaços,Uma pessoa não está comendo os pedaços de uma cenoura.,1,syn
+Um gato está tocando um piano,O gato não está tocando cordas.,1,syn
+Não tem nenhum cavalo arremessando o vaqueiro de calça vermelha e azul,Nenhum cavalo está arremessando o vaqueiro vestindo calça de cor azul e vermelha,1,syn
+A senhora está rachando um ovo para a batedeira,A senhora não está assando um bolo.,1,syn
+Um homem está dirigindo um carro,Um homem não está nadando.,1,syn
+Crianças em camisas vermelhas estão brincando nas folhas,Crianças de camisas vermelhas não estão paradas nas folhas.,1,syn
+Não tem nenhum homem comendo pizza,Nenhum homem está comendo uma pizza,1,syn
+Um homem e um menino estão de pé debaixo de umas escadas que estão ao ar livre,Nenhum adulto está dentro de casa conversando com um menino.,1,syn
+Alguém está tocando o violão,Alguém não está tocando o piano.,1,syn
+Alguns cavalos estão descansando na grama verde,Alguns cavalos não estão correndo sobre a grama verde.,1,syn
+A mulher está jogando cebolas fora,Ninguém está guardando as cebolas.,1,syn
+Um pequeno grupo de mulheres está segurando uma a outra e dançando junto,Nenhum homem está dançando com elas.,1,syn
+Uma mulher está fatiando uma cenoura,Uma mulher não está montando uma salada de frutas.,1,syn
+Uma mulher está cortando vegetais,Uma mulher não está cortando carne.,1,syn
+Um homem está sentado à mesa discutindo confortavelmente,Um homem não está em pé desconfortavelmente à mesa.,1,syn
+Não tem nenhum homem comendo alguma comida,Nenhum homem está comendo.,1,syn
+O homem está andando por um caminho através da natureza,Um homem não está parado no meio de uma estrada.,1,syn
+O homem não está praticando kickboxing com um treinador,Nenhum homem está chutando outro homem enquanto pratica kickboxing sob orientação de um treinador.,1,syn
+Não tem nenhum homem dançando de cabeça para baixo no teto,Nenhum homem está dançando de cabeça para baixo no teto de uma sala.,1,syn
+Um homem está guardando um violão,Um homem não está usando um violão.,1,syn
+Um gato está preso em um ventilador de teto móvel,Um gato não está livre em um ventilador.,1,syn
+"Três jovens homens estão correndo, pulando e chutando perto de uma máquina de venda",Três homens não estão comprando nada de uma máquina de venda.,1,syn
+Um homem e uma mulher estão caminhando pela floresta,O homem e a mulher não estão correndo.,1,syn
+Um homem tatuado está em um sofá e está segurando um lápis,Um homem tatuado não está usando uma caneta.,1,syn
+Não tem nenhum cachorro branco e castanho andando ansiosamente com dificuldade na água,Não tem nenhum cachorro branco e castanho andando ansiosamente na água.,1,syn
+Não tem nenhum homem fazendo uma pose sendo observado por outro homem,Não há homem fazendo uma pose sendo observado por outro homem,1,syn
+Uma mulher está fatiando uma pimenta grande,Uma mulher não está cozinhando uma pimenta grande.,1,syn
+Dois homens estão jogando pingue-pongue,Nenhum pequeno grupo de homens está jogando futebol.,1,syn
+Várias crianças estão sentadas e levantam seus joelhos,Nenhuma criança está com os pés tocando o chão.,1,syn
+A mulher está despejando óleo na frigideira,A mulher não está tocando um instrumento musical.,1,syn
+O homem está encenando em um microfone e está cantando,Nenhum homem está encenando em frente a um microfone e só conversando.,1,syn
+Uma mulher está colocando dois ovos dentro de uma panela de água,Uma mulher não está removendo dois ovos de uma panela com água.,1,syn
+O menino não está brincando na lama,O menino não está jogando com um dispositivo.,1,syn
+A pessoa está fatiando um dente de alho em pedaços,Uma cebola não está sendo cortada em pedaços por uma pessoa.,1,syn
+Um homem está afagando um jacaré na boca,Uma pessoa não está dirigindo um carro.,1,syn
+Um grupo de crianças em uniformes está parado em um portão e uma está beijando a mãe,Não há nenhuma criança nadando na piscina.,1,syn
+Um homem está passando fita em uma caixa cortada,O homem não está descortinando a caixa.,1,syn
+O homem no palco está cantando no microfone,O homem não está encenando sem um microfone e está cantando.,1,syn
+Quatro crianças estão fazendo ponte no parque,Quatro crianças não estão fazendo pontes em uma área coberta.,1,syn
+A mulher está usando óculos e uma touca preta,Uma mulher não está vestindo um chapéu branco.,1,syn
+Uma pessoa está cortando uma cebola em pedaços,Uma pessoa não está aumentando o tamanho dos pedaços de uma cebola.,1,syn
+Uma mulher está soltando um bebê canguru dos seus braços,Uma mulher não está mais segurando um bebê canguru em seus braços.,1,syn
+A mulher está fazendo esqui aquático,Uma mulher não está praticando snowboard na montanha.,1,syn
+Um homem está tocando um violão,Um homem não está tocando piano.,1,syn
+Algumas pessoas estão cantando,Nem todas as pessoas estão em silêncio.,1,syn
+Não tem nenhuma mulher esfregando uma abobrinha com uma escova de legumes,Não há mulher esfregando uma abobrinha.,1,syn
+O cachorro está se divertindo com um brinquedo,O cachorro não está triste.,1,syn
+O microfone em frente ao papagaio falante está sendo silenciado,O papagaio não está sendo ouvido.,1,syn
+O avião sul-africano está voando no céu azul,Um avião não está no solo.,1,syn
+Um caminhante está no topo da montanha e está dançando,Um caminhante não está sentado acima de algumas árvores.,1,syn
+Um homem está dançando,Um homem não está parado.,1,syn
+Alguém está dando comida a um animal,Alguém não está dançando balé.,1,syn
+Coletes salva-vidas estão sendo usados por um grupo de pessoas que está praticando salvamento na água,Um grupo de pessoas não está nadando sem segurança.,1,syn
+Um homem está polvilhando tempero em vários pães fatiados e com manteiga,Um homem não está fatiando os pães.,1,syn
+Uma mulher está pilotando uma moto aquática,Ninguém mais está pilotando a moto aquática.,1,syn
+Um homem está tocando um violão,Nada indica que uma mulher está tocando um violão.,1,syn
+Uma mulher está despejando uma mistura em uma tigela e misturando-a,Uma mulher não está separando uma mistura em uma tigela.,1,syn
+Um homem está cuspindo no chão,Um homem não está bebendo.,1,syn
+Não tem nenhuma banda tocando,Não há nenhuma banda apresentando-se no palco,1,syn
+O equipamento de montanhismo está firmemente posicionado em frente ao ciclista em pé,Nenhum ciclista está utilizando equipamentos de segurança.,1,syn
+Um homem habilidoso está tocando violão no palco,Não há ninguém jogando futebol no palco.,1,syn
+Um homem está libertando um peixe,Nenhum homem está desossando um peixe.,1,syn
+Os homens estão correndo uma corrida,Nem todos os homens estão repousando.,1,syn
+"Uma pessoa, que está andando de bicicleta, está usando equipamento que é preto",Uma pessoa não está empurrando uma bicicleta.,1,syn
+Uma mulher está dançando e cantando na chuva,Uma mulher não está dançando e cantando abrigada.,1,syn
+Uma mulher está regando um jardim,A mulher não está regando o jardim sem água.,1,syn
+Dois cavalos estão correndo,Os cavalos não estão parados.,1,syn
+Uma mulher está pintando um quadro baseado em uma vista do campo,Uma mulher não está pintando um quadro que não requer ferramentas artísticas.,1,syn
+A mulher não está cuidando das plantas naquele momento,A mulher não está podando as plantas agora.,1,syn
+Nenhuma das mulheres está segurando um telescópio.,Nenhuma mulher está segurando um telescópio.,1,syn
+Um gato de pelagem brilhante está repousando no sofá,O gato não está correndo.,1,syn
+O casal está escutando música enquanto percorre a avenida principal em um conversível vermelho,O casal não está em silêncio absoluto no carro.,1,syn
+"Dois amigos estão sentados na praia, admirando o pôr do sol",Dois amigos não estão surfando.,1,syn
+A pessoa está realizando um detox social ao se distanciar de indivíduos tóxicos,A pessoa não está se concentrando em interações sociais negativas.,1,syn
+O presidente está cumprimentando seus eleitores,O presidente não está falando com seus adversários.,1,syn
+A banda está se apresentando no palco,A banda ainda não terminou de tocar.,1,syn
+"Oito pessoas estão presentes, metade delas sentadas e a outra metade em pé",Nem todas as oito pessoas estão sentadas,1,syn
+Um bolo pequeno de chocolate é decorado com granulado colorido e pitangas de brigadeiro de chocolate,O bolo de chocolate não é decorado com chantilly.,1,syn
+A garotinha está se divertindo pulando sobre uma poça de água.,A garotinha não está evitando o contato com a água.,1,syn
+A mulher está pintando um quadro que é abstrato,A mulher não está pintando um quadro que não é abstrato.,1,syn
+O líder fala que o segredo é continuar persistindo,O líder fala que o segredo não é desistir.,1,syn
+Uma pessoa indistinta de camiseta branca está segurando uma carteira de trabalho,A pessoa de camiseta branca não está segurando uma garrafa.,1,syn
+A colcha possui uma textura aveludada na cor rose,A colcha não é áspera.,1,syn
+Um cartaz padrão é utilizado para comunicar avisos especiais,Nenhum cartaz não padrão é utilizado para comunicar avisos especiais.,1,syn
+Uma mulher está audaciosamente pilotando uma motocicleta,Uma mulher não está hesitante em pilotar uma motocicleta.,1,syn
+Criptas estão situadas à esquerda na esquina de uma rua arborizada dentro de um cemitério,As criptas não estão localizadas à direita na esquina de uma rua arborizada dentro de um cemitério.,1,syn
+Ela retira uma caixinha de fio dental da bolsa,Ela não tira nada além do fio dental da bolsa.,1,syn
+O show contará com vários instrumentos musicais,O show não contará apenas com um cantor sem instrumentos.,1,syn
+Um homem está vestindo um colete à prova de balas e está atirando com uma espingarda em uma área de treinamento ao ar livre,O homem não está em um combate real no momento.,1,syn
+Duas meninas não estão brincando no playground,Não há duas meninas brincando no playground.,1,syn
+Uma mulher está sentada no chão segurando um sanduíche na mão direita,A mulher não está comendo uma refeição completa.,1,syn
+Uma mulher está meditando,A mulher não está fazendo exercício físico.,1,syn
+O homem está cortando um tomate.,O homem não está cortando uma maça.,1,syn
+As atividades administrativas e de ensino serão retomadas na próxima segunda-feira,As atividades de pesquisa não serão retomadas na próxima segunda-feira.,1,syn
+Não há nenhum boneco de ação lutando contra um robô de brinquedo,Nenhum boneco de ação está lutando contra um robô de brinquedo,1,syn
+O menino está em um parquinho,O menino não está em casa.,1,syn
+O homem usando um gorro vermelho e um sobretudo preto está rindo sob a chuva,O homem não está usando um chapéu azul.,1,syn
+O homem usava um macacão laranja e óculos de proteção.,O homem não estava trabalhando como advogado.,1,syn
+Numerosos indivíduos se agrupam diante de um arranha-céu que é revestido por um arco-íris de matizes,Numerosos indivíduos não conseguem ignorar o arranha-céu colorido no meio dos outros edifícios da cidade.,1,syn
+O parque possui um brinquedo para escalar e escorregar,O parque não possui brinquedos que sejam apenas planos para as crianças.,1,syn
+Uma modelo está posando com um macaquinho branco com detalhe em renda,A modelo não está posando com um macaquinho sem detalhes em renda.,1,syn
+Uma jovem está posicionada entre uma porta com uma perna estendida e os braços apoiados nos batentes,A jovem não está deitada no chão.,1,syn
+A turma de estudantes não está estudando em uma biblioteca silenciosa,A turma de estudantes não está em uma biblioteca silenciosa estudando,1,syn
+Uma mulher está mergulhando no mar,A mulher não está caminhando na montanha.,1,syn
+Dois indivíduos estão relaxando em uma cadeira de balanço azul,Dois indivíduos não estão trabalhando em uma cadeira de balanço azul.,1,syn
+Uma pessoa está andando pelo parque,A pessoa não está andando dentro de um prédio.,1,syn
+"Cartões exibem ilustrações em aquarela de um urso, uma girafa e uma baleia",Os cartões não contêm ilustrações somente de animais terrestres feitas em aquarela.,1,syn
+Indivíduos estão comprando e vendendo alimentos em uma feira,Indivíduos não estão comprando e vendendo eletrônicos em uma feira.,1,syn
+Um homem trajado com um terno refinado está no meio de uma aglomeração urbana e está admirando os arranha-céus,Um homem em um terno elegante não está em um ambiente fechado na cidade.,1,syn
+Comida está sendo consumida por um corredor descansando na pista,O corredor na pista não está correndo.,1,syn
+Um garoto de calça jeans está pulando,O garoto de calça jeans não está sentado.,1,syn
+"Um prato é servido com batata frita, arroz temperado e filé de frango grelhado coberto com creme de milho","O prato servido não contém peixe grelhado, arroz integral e salada de alface.",1,syn
+A celebridade está sozinha sem ninguém ao redor.,A celebridade não está rodeada por amigos.,1,syn
+O garoto pequeno está borrifando perfume,O garoto pequeno não está comprando perfume.,1,syn
+Não há comida sendo devorada por um cachorro,Não há um cachorro comendo perto.,1,syn
+Uma mão está segurando um frasco que contém cápsulas de cúrcuma,Uma mão não está segurando um frasco vazio.,1,syn
+Uma homem está de lado no espelho usando óculos de grau com armação metalizada,O homem não está sem óculos.,1,syn
+Um homem está tocando uma guitarra,O homem não está tocando piano.,1,syn
+Um grupo de pessoas está sentado em círculo,As pessoas não estão todas de pé.,1,syn
+O sujeito está a cantar com um casaco pesado,O sujeito não está em um ambiente quente.,1,syn
+Uma mulher está tocando violino em um concerto,A mulher não está tocando piano em um concerto.,1,syn
+Um gato está dormindo confortavelmente na poltrona vermelha,O gato não está acordado na poltrona vermelha.,1,syn
+Um violino está sendo protegido por um menino,Um violino não está desprotegido.,1,syn
+Uma caixa de mini coxinhas está posicionada ao lado de um molho,A caixa de mini coxinhas não está longe do molho.,1,syn
+Uma mandala talhada em MDF apresenta detalhes em preto,A mandala talhada não é inteiramente branca,1,syn
+Um indivíduo próximo a vários microfones está acendendo um fogo de artifício,Um indivíduo próximo a vários microfones não está tentando apagar um fogo de artifício.,1,syn
+Os gatos estão miando no telhado,Os gatos não estão miando dentro de casa.,1,syn
+O homem não está colocando sal no peixe,O homem não está salgando o peixe,1,syn
+O casal está escutando música enquanto percorre a avenida principal em um conversível vermelho,Nenhum dos membros do casal está parado na calçada.,1,syn
+O homem está no mar com uma prancha,O homem não está sem uma prancha.,1,syn
+O homem está procurando por uma receita para o jantar de Réveillon,O homem não está procurando uma receita de café da manhã para o Réveillon.,1,syn
+Um gato de pelos prateados está brincando na grama,Um gato de pelos prateados não está dormindo.,1,syn
+O público aplaude o cantor efusivamente,O público não está ignorando o cantor.,1,syn
+Batata frita é servida em um cone com ketchup,A batata frita não é servida sem ketchup.,1,syn
+Uma mulher está praticando violino,A mulher não está tocando violino e flauta ao mesmo tempo.,1,syn
+O meme mostra uma pessoa feliz a beira do precipício,A pessoa no meme não está triste à beira do precipício.,1,syn
+Uma mão feminina está segurando uma ampola e uma seringa,A mão feminina não está vazia.,1,syn
+Um homem em um jaleco branco está apontando para um teclado virtual,Um homem não está digitando em um teclado físico.,1,syn
+O grupo de dança está deitado na área de convivência,O grupo de dança não está se movendo na área de convivência.,1,syn
+Não há vento agitando as folhas.,As folhas não estão se movendo devido ao vento.,1,syn
+A influenciadora está sorrindo e segurando um produto de beleza,A influenciadora não está triste e está segurando um produto de beleza.,1,syn
+"O homem está deitado na cama, descansando",O homem não está de pé.,1,syn
+O gato tem pelo curto.,O gato não é sem pelo.,1,syn
+O papagaio está alimentando o gato,O gato não está alimentando o papagaio no momento.,1,syn
+Uma elegante raposa vermelha está saltando sobre um campo coberto de folhas de outono,A raposa vermelha não está parada no campo.,1,syn
+Esquiadores estão realizando outras atividades além de descer a montanha,Os esquiadores não estão apenas descendo a montanha.,1,syn
+A menina está usando um vestido vermelho,A menina não está usando um vestido não-vermelho.,1,syn
+No carnaval pessoas estão fantasiadas se divertindo,Ninguém está triste no carnaval.,1,syn
+Um homem está correndo na praia ao amanhecer,O homem não está correndo na chuva.,1,syn
+Quatro amigos estão conversando na arquibancada de uma quadra esportiva após o término de um jogo,Nenhum dos amigos está jogando basquete enquanto conversam.,1,syn
+Uma pessoa com mãos claras e cutículas bem cuidadas está pintando suas unhas com um esmalte que tem uma tonalidade verde militar,A pessoa não está negligenciando a manutenção das suas unhas.,1,syn
+O homem está cortando verduras na tábua de cozinha,O homem não está usando a tábua de cozinha para escrever.,1,syn
+O famoso jogador de futebol está correndo e comemorando,O jogador de futebol não está parado.,1,syn
+Existem muitos indivíduos que desaprovam alguém por suas qualidades do que por seus defeitos,Muitas pessoas não reconhecem os méritos dos outros.,1,syn
+Uma jovem de cabelos escuros está olhando para um castelo,A jovem de cabelos escuros não está olhando para um carro.,1,syn
+Um maltês branco está deitado no chão claro de uma sacada,O maltês branco não está em pé na sacada.,1,syn
+Um bebê e sua mãe compartilham um momento de carinho,O bebê e a mãe não estão discutindo agressivamente.,1,syn
+"Três policiais mascarados estão de costas, confrontados por uma jovem loira sem máscara",A jovem loira não está usando uma máscara.,1,syn
+Três gatinhos brancos estão se divertindo perto de um lago,Os gatinhos não estão nadando no lago.,1,syn
+"A modelo está usando uma blusa vermelha de mangas soltas, calça preta e salto preto",A modelo não está descalça.,1,syn
+"A fragrância com embalagem transparente e tampa dourada, está posicionada sobre textura e folhas douradas",A fragrância não está posicionada em uma superfície com cor contrastante.,1,syn
+O post apresenta cinco ferramentas de marketing digital ilustradas,O post não apresenta menos de cinco ferramentas de marketing digital.,1,syn
+Uma flor delicada está sendo apreciada por uma pequena borboleta,A borboleta não está ignorando a flor.,1,syn
+A mulher loira está usando um vestido vermelho.,A mulher loira não está usando um vestido azul.,1,syn
+Uma mesa na delegacia está coberta de armas e dinheiro,A mesa na delegacia está cheia de objetos ilegais.,1,syn
+Três amigos estão desfrutando de lanches coloridos,Três amigos não estão sem comer nada.,1,syn
+"A pessoa está sorrindo e olhando de lado, com o cabelo no topo da cabeça",A pessoa não está com o cabelo solto e olhando para outra direção.,1,syn
+Ela está sorrindo e olhando diretamente para a câmera,Ela não está de costas para a câmera.,1,syn
+Uma mulher sorridente veste uma blusa rosa,A mulher não está vestindo uma blusa verde.,1,syn
+Um homem jovem com cabelo castanho e sem relógio está chorando.,O homem jovem não está sorrindo.,1,syn
+O cachorro do vizinho gosta de latir todas as manhãs,O cachorro do vizinho nunca fica em silêncio todas as manhãs.,1,syn
+Duas fatias de pão estão ao lado de um potinho de molho em um prato preto,O prato preto não está vazio,1,syn
+O rapaz está usando um moletom canguru,O rapaz não está vestindo um casaco formal.,1,syn
+A capa do filme apresenta os dois papas,A capa do filme não apresenta nenhum papa sozinho.,1,syn
+As luzes da cidade são vistas de uma colina próxima,As luzes da cidade não são bloqueadas por obstáculos nas colinas próximas.,1,syn
+Um enfermeiro está vacinando um garoto no braço esquerdo,O enfermeiro não está vacinando o garoto no braço direito.,1,syn
+"Um rapaz, dos ombros para cima, está escondendo o rosto com ambas as mãos",O rapaz não está mostrando o rosto,1,syn
+"Dois potes de vidro contêm iogurte batido com morango, cada um com um canudo listrado de branco e rosa",Nenhum pote de vidro está vazio.,1,syn
+Uma modelo está usando uma meia cinza com desenhos infantis,A modelo não está sem meias.,1,syn
+O presidente está participando de uma reunião,O presidente não está sozinho.,1,syn
+Não há nenhum livro sendo aberto para leitura,Não há ninguém lendo um livro agora.,1,syn
+"Um garoto, ainda na flor da idade, está empinando pipa em um campo aberto e ventoso",O garoto não está empinando pipa em um local fechado.,1,syn
+As folhas são verdes.,Nada nas folhas é azul.,1,syn
+Uma mulher está despejando gotas de baunilha em uma tigela de biscoitos,A mulher não está colocando açúcar na tigela de biscoitos.,1,syn
+Uma adolescente está interagindo com um tablet,A adolescente não está correndo na rua.,1,syn
+"Um gato, que é grande e cinza, está caçando um pequeno pássaro amarelo",O gato grande e cinza não está descansando.,1,syn
+Cinco pessoas estão sentadas à mesa em um palco diante de uma tela de projeção,As cinco pessoas não estão deitadas no palco.,1,syn
+Uma mulher não está descascando uma cebola,Uma mulher não está chorando por causa de cebolas.,1,syn
+Duas garrafas de vinho estão posicionadas à frente de sua caixa de madeira,As garrafas de vinho não estão dentro da caixa de madeira.,1,syn
+Um bando de turistas europeus está jantando em um bistrô,Um bando de turistas europeus não está tomando café da manhã em um bistrô.,1,syn
+Um homem está realizando uma chamada de vídeo com várias pessoas através de seu notebook,O homem não está sozinho enquanto realiza a chamada de vídeo.,1,syn
+Não existe nenhum garoto com pintas azuis e verdes no rosto,Não há um garoto com pintas azuis e verdes no rosto.,1,syn
+O entregador usa uma moto na cor cinza metálica,O entregador não está andando de carro.,1,syn
+Três garrafas de vinagre de vinho tinto estão deitadas irregularmente sobre uma mesa de madeira,A mesa não está vazia.,1,syn
+Uma menina está na escola com um monstro atrás dela enquanto outra menina também está presente,A menina não está sozinha na escola,1,syn
+Um homem está sendo perseguido por um drone que ilumina o local com luz azul,Um homem não está controlando um drone pessoal enquanto é iluminado por ele.,1,syn
+Um carro capotado é observado através de um retrovisor,O carro capotado não está em sua posição original.,1,syn
+Um homem está apoiado em um carro de Fórmula 1,O homem não está dirigindo o carro.,1,syn
+As frutas estão sendo arrumadas em uma cesta por uma mulher,As frutas não estão sendo arrumadas em uma cesta por um homem.,1,syn
+"Uma jovem menina, aparentemente nervosa, está em um palco de teatro",Uma jovem menina não está calma no palco.,1,syn
+Duas modelos estão sorrindo e segurando as fragrâncias,As modelos não estão sérias.,1,syn
+Uma mulher está dirigindo um carro,Uma mulher não está andando a pé.,1,syn
+"Um homem sério está recostado em uma parede grafitada, com cabelos que alcançam a gola do seu casaco",O homem não tem cabelo raspado.,1,syn
+A banda participa de um ensaio fotográfico,A banda não está tocando ao vivo agora.,1,syn
+"O gato de pelagem desgastada se equilibra nos membros posteriores, pronto para dar o bote",O gato de pelagem desgastada não está parado.,1,syn
+Uma mulher está tomando café da manhã na cozinha,A mulher não está jantando na cozinha.,1,syn
+Os alunos das escolas públicas compareceram à bienal do livro,Nem todos os alunos que compareceram à bienal do livro são de escolas públicas.,1,syn
+Dois adolescentes não estão sentados no banco do parque,Dois adolescentes não estão sentados no banco do parque durante o dia.,1,syn
+As crianças estão brincando com seus coelhos no parque.,As crianças não estão brincando sem seus coelhos no parque.,1,syn
+A professora está ensinando matemática na sala de aula,A professora não está ensinando história na sala de aula.,1,syn
+"Dois carrinhos motorizados para criança, um amarelo e outro prata, estão presentes",O carrinho motorizado prata não é o único presente.,1,syn
+Um homem desnutrido está deitado no chão,Tem um homem não saudável deitado no chão,1,syn
+A estampa azul é o detalhe principal do jogo de lençol,O jogo de lençol não tem um detalhe principal que não seja a estampa azul.,1,syn
+Um homem está fazendo a barba no espelho,Um homem não está lavando o rosto no espelho.,1,syn
+Uma torneira está pingando água enquanto uma mão a abre,A torneira não está totalmente aberta.,1,syn
+A seguidora está observando a formação das três pedras,A seguidora não está ignorando as três pedras,1,syn
+Uma mulher grávida contempla sua barriga perto de uma janela iluminada,Uma mulher grávida não está contemplando a paisagem externa.,1,syn
+Uma aluna está sentada enquanto outros alunos assistem em pé,Nenhum aluno além dela está sentado.,1,syn
+O artista está fora do estúdio.,O artista não está no estúdio.,1,syn
+Um artista está grafitando um caminhão usando vários sprays de tinta,O grafite não está sendo feito com uma única cor.,1,syn
+Vários copinhos de vidro contêm molho de abacate e um mix de legumes em formato de palitos,Vários copinhos de vidro não contêm nada além de molho de abacate e um mix de legumes em formato de palitos.,1,syn
+Duas crianças estão se divertindo enquanto brincam em um rio cercado pela natureza,As crianças não estão paradas enquanto brincam no rio.,1,syn
+Existe um homem cortando tomates em uma tábua com uma faca de aço inoxidável,O homem não está cortando cebolas.,1,syn
+Uma criança alegre está depositando moedas em seu cofrinho rosa,A criança alegre não está removendo moedas do seu cofrinho rosa.,1,syn
+A família planeja viajar para o litoral no próximo feriado,A família não viajará para as montanhas no próximo feriado.,1,syn
+A pessoa se compromete a dedicar mais tempo para se relacionar com outros,A pessoa não prometeu dedicar menos tempo para se relacionar com outros.,1,syn
+O homem está retirando tomate da salada,O homem não está adicionando tomates na salada.,1,syn
+Uma aeronave está se aproximando para o pouso sob um céu laranja coberto de nuvens,O avião não está pousando sob um céu claro e sem nuvens.,1,syn
+"Os pequenos estão correndo ao redor de um carvalho, que é imensamente alto",As crianças não estão paradas ao lado do carvalho.,1,syn
+Um gato preto está pulando na grama,Um gato preto está pulando na grama e não está parado.,1,syn
+"Uma mulher está deitada no sofá com as pernas para cima, tomando chá","A mulher não está em pé, bebendo café",1,syn
+"Uma modelo feminina veste uma blusa rosa com detalhes em branco e azul nas mangas, gola e barra",A modelo não está vestindo uma blusa verde.,1,syn
+A mulher está cozinhando uma refeição vegetariana.,A refeição não contém carne.,1,syn
+Um trator está removendo lixo irregular,O trator não está sendo usado para construir nada.,1,syn
+Um menino está lendo um livro atrás de uma grande estante,Um menino não está correndo atrás de uma grande estante.,1,syn
+Todos estão se reunindo em um ambiente fechado.,A reunião não é ao ar livre.,1,syn
+"Uma mulher está navegando, parando e traçando o caminho",A mulher não está fora da água.,1,syn
+Indivíduos estão distantes do parque repleto de árvores e encaram o dia quente com dificuldade,Pessoas não estão aproveitando o dia quente no parque repleto de árvores.,1,syn
+O garçom está servindo o almoço,O garçom não está sentado almoçando.,1,syn
+Um suéter azul está sendo usado por um garoto que está deitado no sofá e assistindo televisão,O garoto não está brincando com um cachorro pequeno no momento.,1,syn
+Um homem está fazendo a barba no espelho,Um homem não está cortando o cabelo no espelho.,1,syn
+Um artista está pintando um retrato de sua modelo em seu estúdio,O artista não está pintando natureza morta.,1,syn
+Vários pacotes de pães de forma de diferentes sabores e tamanhos estão dispostos em uma bancada,A bancada não está desprovida de pães de forma,1,syn
+Um pequeno garoto está brincando ao ar livre após a chuva,Um pequeno garoto não está brincando em um ambiente fechado após a chuva.,1,syn
+Um álbum contém dedicatórias escritas por vários autores,O álbum nunca foi dedicado por um único autor.,1,syn
+Uma folha de tecido está sendo costurada pela mulher,O tecido não está sendo costurado por um homem.,1,syn
+A campanha busca conscientizar as pessoas a não abandonarem animais,A campanha não está focada em ações punitivas para quem abandona animais.,1,syn
+Nenhum garoto está escondido atrás de uma pilha de caixotes de madeira,Nenhum garoto está se escondendo atrás de uma pilha de caixotes de madeira,1,syn
+"Um manequim está vestido com calça preta, cinto preto e blusa de viscose preta com estampa floral",O manequim não está exibindo uma camisa de poá.,1,syn
+Um estudo confirmou que a cerveja é mais eficaz no alívio das dores do que o paracetamol,"A cerveja é, para as dores de cabeça, menos ineficaz até mesmo que o paracetamol.",1,morph
+"No noticiário são comuns, infelizmente, os casos de feminicídios",Não são incomuns no noticiário os casos de violência.,1,morph
+Um menino de jaqueta vermelha está segurando um balão colorido sem ninguém por perto,O menino de jaqueta vermelha está desacompanhado.,1,morph
+Dois homens idosos estão usando óculos de leitura,Dois homens idosos têm uma visão imperfeita.,1,morph
+Um homem está comendo uma laranja e jogando cascas no chão,O homem come a fruta cítrica com deselegância.,1,morph
+Um estudo revela que um terço dos funcionários experimenta situações embaraçosas nas festas corporativas,Alguns funcionários se sentem desconfortáveis nas festas corporativas,1,morph
+Uma mulher está imprudentemente cortando o pão com uma serra elétrica,Uma mulher está cortando o pão com uma ferramenta anormal,1,morph
+A garota audaz está com medo de andar de skate,A garota audaz está desanimada para andar de skate,1,morph
+Os gatos estão se movendo de um móvel para outro.,Os gatos estão se recusam a ficar imóveis.,1,morph
+O senhor está cometendo erros ao dirigir.,O senhor está dirigindo imperfeitamente.,1,morph
+A campanha busca conscientizar as pessoas a não abandonarem animais,A campanha desincentiva as pessoas a abandonarem seus animais.,1,morph
+Tenha autoconfiança e não dependa da aprovação dos outros para reconhecer o próprio valor,O valor pessoal independe da aprovação dos outros.,1,morph
+O espírito enfatiza a necessidade humana de verdade e luz espiritual sobre a necessidade de dinheiro e pão,O espírito desestimula a importância busca por bens terrenos.,1,morph
+Não é possível ver um coala pendurado.,Existe um coala invisível pendurado na árvore.,1,morph
+"A questão levantada sugere que as perturbações diárias possam ser equilibradas através de práticas como comer, fazer sexo ou fazer compras",As pessoas frequentemente procuram maneiras de descentrar suas perturbações diárias.,1,morph
+A comissão aprovou um projeto que estabelece limites de ruído para fogos de artifício,A comissão também analisa projetos relacionados ao desassossego sonoro em geral.,1,morph
+"Ao colocar uma concha na orelha, é possível ouvir o eco das próprias artérias e o som ambiente, e não o som do mar como comumente se acredita","Ao colocar uma concha na orelha, é improvável ouvir o som do mar",1,morph
+Uma hélice é criada usando uma caneta 3D com um filamento vermelho,Uma hélice é criada usando uma caneta inesperada.,1,morph
+Uma mulher em trajes de exercícios físicos está exibindo o bíceps,A mulher está vestida para um evento informal.,1,morph
+A criança está revoltada com a cancela que continua a bater e voltar,A criança está infeliz com a cancela que continua a bater e voltar.,1,morph
+Sampaio ressaltou que o novo pedido de impeachment tem todos os elementos para ser aceito por Cunha.,A decisão de Cunha deve desimpedir o impeachment.,1,morph
+Jandira Feghali afirmou que entrará na Corregedoria da Câmara com representação contra Fraga por quebra de decoro parlamentar.,Jandira Feghali promete processar o deputado por indecoro parlamentar.,1,morph
+"Já aos domingos, o horário apontado como ideal pelo torcedor é das 16h.",O horário de domingo às 11h teve mais desaprovação.,1,morph
+Este é o prazo para a decisão sobre o veto à proposta de flexibilização do fator previdenciário.,A desflexibilização do fator previdenciário tem prazo de decisão próximo.,1,morph
+O apresentador deixou uma mensagem tranquilizadora aos fãs do ator de 88 anos.,A mensagem visa deixar os fãs do ator mais despreocupados com o estado de saúde do mesmo.,1,morph
+"O Valladolid é um grande clube, gostei do projeto que me apresentaram.","Se tiver de jogar pelo Valladolid, também será descansado, porque é o meu clube.",1,morph
+"Por último, os peritos da Check Point indicam que está a notar-se um avanço continuado no desenvolvimento de malware para dispositivos móveis.","A Check Point, empresa de segurança, descobriu um novo malware para dispositivos móveis.",1,morph
+Um menino está tocando animadamente o piano,Um menino toca despreocupado o piano,1,morph
+Um homem de terno está de pé em frente a um microfone e cantando sem emoção,Um homem no palco está cantando desapaixonadamente no microfone,1,morph
+O sistema travou ao processar o comando inválido.,O software se mostrou incapaz de executar a tarefa.,1,morph
+A criança se recusou a compartilhar seus brinquedos.,A atitude da criança foi egoísta.,1,morph
+O acordo comercial entre os países foi desfeito.,As negociações resultaram em um desacordo.,1,morph
+O funcionário não cumpriu com as metas estabelecidas.,Seu desempenho foi insatisfatório.,1,morph
+A porta não abre mesmo com a chave correta.,O mecanismo da tranca está inoperante.,1,morph
+O vestido novo encolheu após a primeira lavagem.,O material era inadequado para aquecedor.,1,morph
+O som do concerto não podia ser ouvido no fundo do auditório.,A acústica do local era imperfeita.,1,morph
+O cliente devolveu o produto por considerar a qualidade baixa.,O cliente ficou insatisfeito com a mercadoria.,1,morph
+O candidato não conseguiu responder às perguntas da banca.,O candidato se mostrou despreparado para a prova.,1,morph
+A empresa descumpriu as normas de segurança.,A conduta da empresa foi irregular.,1,morph
+O atleta foi afastado da competição por usar substâncias proibidas.,O competidor foi desclassificado por doping.,1,morph
+O computador desligou sozinho durante a atualização.,O processo de atualização foi interrompido.,1,morph
+O suspeito forneceu informações que não condiziam com a verdade.,Sua versão dos fatos era inverídica.,1,morph
+A equipe não conseguiu encontrar uma solução para o problema.,A equipe se deparou com uma situação insolúvel.,1,morph
+O governo revogou a lei aprovada no mês passado.,A legislação anterior foi anulada.,1,morph
+A conexão de internet cai constantemente.,O serviço de internet é instável.,1,morph
+O paciente não mostra sinais de melhora com o tratamento atual.,A terapia está se mostrando ineficaz.,1,morph
+A conta foi cancelada por violar os termos de uso.,O acesso do usuário foi desativado.,1,morph
+O aluno não concordou com a teoria apresentada pelo professor.,O aluno demonstrou discordância em relação à aula.,1,morph
+A fechadura quebrou e a porta não pode ser trancada.,A fechadura ficou inutilizada.,1,morph
+A empresa não conseguiu se adaptar às novas tecnologias.,A empresa se mostrou resistente à inovação.,1,morph
+O filme foi criticado por desrespeitar a cultura local.,A produção foi acusada de desrespeito cultural.,1,morph
+O motor não funciona corretamente em temperaturas baixas.,O motor é ineficiente no frio.,1,morph
+A impressora para de funcionar quando o papel está emposado.,O equipamento é incompatível com umidade.,1,morph
+O réu não apareceu para a audiência marcada.,O réu está ausente do tribunal.,1,morph
+A equipe de futebol perdeu seus melhores jogadores para times rivais.,O time foi desfalcado de seus principais atletas.,1,morph
+O organismo do paciente está atacando o novo rim.,O corpo começou a rejeitar o órgão transplantado.,1,lex
+A celebridade disse que não endossa tal produto.,A celebridade vai negar endosso.,1,lex
+O relógio de pêndulo da sala não marca as horas desde ontem.,Ele parou de funcionar.,1,lex
+A testemunha declarou que não viu o ocorrido.,A testemunha vai negar ter presenciado.,1,lex
+O país baniu a pesca naquela área de preservação.,O país vai proibir a pesca.,1,lex
+O relatório final foi considerado incompleto pela diretoria.,Foi criticada a ausência de dados concretos.,1,lex
+Os candidatos reprovados não terão nova oportunidade.,Os candidatos estão privados de segunda chance.,1,lex
+Os estudantes da escola fechada não têm aulas.,Os estudantes estão privados de ensino.,1,lex
+A empresa suspendeu as atividades por reforma.,As atividades vão parar para reforma.,1,lex
+O técnico disse que o jogador lesionado não entrará em campo no jogo de domingo.,O jogador está privado de atuar no jogo de domingo.,1,lex
+O estatuto do servidor proíbe acumulação de cargos.,Acumulação de cargos é de forma alguma admitida.,1,lex
+A assembleia não ratificou o tratado internacional.,A assembleia vai rejeitar o tratado.,1,lex
+"A luz do sol não entrava no quarto, tornando o ambiente sombrio.",A ausência de iluminação natural era total.,1,lex
+O partido de oitura votou de forma unânime contra a medida provisória.,Eles vão se opor ao projeto do governo.,1,lex
+Os órfãos não recebem afeto familiar.,Os órfãos estão privados de carinho dos pais.,1,lex
+A ilha não tem acesso à internet.,A ilha está privada de conexão digital.,1,lex
+O contrato de fornecimento chega ao seu termo final no próximo mês.,A entrega dos produtos vai cessar em junho.,1,lex
+As mulheres presas não podem amamentar seus filhos.,As mulheres estão privadas de amamentação.,1,lex
+Os animais no laboratório não veem a luz do sol.,Os animais estão privados de ambiente natural.,1,lex
+A constituição torna inviável a prisão por dívida civil.,Prisão por dívida civil é de forma alguma legal.,1,lex
+O artigo científico foi retirado da revista por conter dados fraudulentos.,O estudo foi excluído da publicação.,1,lex
+A lei considera nulas cláusulas abusivas em contratos.,Cláusulas abusivas são de modo algum válidas.,1,lex
+Os refugiados chegaram ao país apenas com a roupa do corpo.,Eles estão privados de seus pertences.,1,lex
+A música que tocava no rádio deu lugar a um silêncio repentino.,A melodia parou de repente.,1,lex
+As nações embargadas não podem importar medicamentos.,As nações estão privadas de remédios essenciais.,1,lex
+O refugiado não tem documentos de identidade.,O refugiado está privado de documentação.,1,lex
+Os soldados aguentaram o cerco por um mês.,Os soldados vão resistir ao cerco.,1,lex
+Ele colocou as mãos para trás quando lhe ofereceram o docinho.,A criança vai recusar o agrado.,1,lex
+Ela colocou uma capa sobre o sofá novo.,Ela pretende evitar manchas no tecido.,1,lex
+O regulamento interno veda expressamente fotos nas dependências.,Fotos são de maneira nenhuma permitidas.,1,lex
+A criança órfã não tem cuidados parentais.,A criança está privada de cuidados parentais.,1,lex
+"Apesar da oferta tentadora, ele manteve sua decisão de não vender a empresa.",Ele vai recusar a proposta de compra.,1,lex
+O fogo consumiu toda a matéria orgânica disponível na área.,"Sem nada para queimar, as chamas cessaram.",1,lex
+"O réu manteve sua versão dos fatos, mesmo confrontado com novas provas.",Ele continuou a negar sua participação.,1,lex
+O professor não veio dar aula hoje.,O professor está ausente hoje.,1,lex
+O fornecimento de energia foi cortado por falta de pagamento.,O fornecimento de energia cessou.,1,lex
+O som do mar some quando se fecha a janela do apartamento.,Quem mora longe da praia está privado de acordar com esse barulho.,1,lex
+A defesa apresentou objeções à acusação.,A defesa vai se opor à acusação.,1,lex
+O cantor principal passou mal momentos antes do show.,O vocalista terá de se ausentar da apresentação.,1,lex
+O protocolo de segurança veda acesso sem identificação.,Acesso sem identificação é de forma alguma concedido.,1,lex
+O caminhão fez um desvio pela estrada de terra.,O motorista preferiu evitar o pedágio.,1,lex
+A pesquisa não recebeu verba pública.,A pesquisa está privada de financiamento governamental.,1,lex
+A minoria discordou da decisão da maioria.,A minoria vai se opor à decisão.,1,lex
+A empresa não quebrou durante a crise.,A empresa vai resistir à crise.,1,lex
+O prazo legal para ação expirou há cinco anos.,O autor está sem chance de processar.,1,lex
+O dono do estabelecimento não estava no local durante a fiscalização.,O dono estava ausente durante a fiscalização.,1,lex
+O técnico não relacionou o jogador lesionado para a partida decisiva.,O atleta foi excluído do jogo.,1,lex
+O acordo de confidencialidade proíbe divulgação de dados.,A divulgação é de maneira nenhuma permitida.,1,lex
+A regra da competição determina a desclassificação de qualquer um que cometer falta grave.,Infratores serão excluídos do campeonato.,1,lex
+O partido político fez campanha contra o impeachment.,O partido vai se opor ao impeachment.,1,lex
+O sentimento de culpa simplesmente não existia para ele.,O remorso estava ausente de sua consciência.,1,lex
+A empresa emitiu nota dizendo que não compactua com a prática.,A empresa vai negar envolvimento.,1,lex
+"Ele sempre paga suas contas em dia, diretamente no banco.",Ele procura evitar o acúmulo de juros e multas.,1,lex
+O funcionário afirmou que não vazou a informação.,O funcionário vai negar o vazamento.,1,lex
+O país emitiu um comunicado oficial repudiando as acusações de espionagem.,O governo vai negar envolvimento nas atividades.,1,lex
+O manual do produto alerta que abertura por usuários anula a garantia.,A abertura do produto é de modo algum autorizada.,1,lex
+O banco não concedeu o empréstimo solicitado.,O banco vai rejeitar o empréstimo.,1,lex
+O goleiro titular não jogará por suspensão.,O goleiro titular estará ausente do jogo.,1,lex
+O instrutor mandou não olhar para a luz diretamente.,Deve-se evitar olhar diretamente para a luz.,1,lex
+O acidente danificou suas cordas vocais de forma irreversível.,O cantor está privado de voltar a se apresentar.,1,lex
+Os sintomas da doença desapareceram com o tratamento.,Os sintomas cessaram.,1,lex
+A fábrica parou de emitir poluentes após a intervenção ambiental.,A emissão de poluentes deve cessar.,1,lex
+O regulamento do clube reserva o uso da piscina apenas para associados.,As regras proíbem o acesso de não membros.,1,lex
+"O ministro afirmou, em coletiva, que não havia qualquer irregularidade na licitação.",Ele procurou negar qualquer indício de malfeito.,1,lex
+O quadro na parede da sala de estar deixou uma marca clara de onde estava.,"O objeto, agora ausente, ainda deixa sua lembrança.",1,lex
+A escola não permite uso de celular em aula.,A escola vai proibir celular em aula.,1,lex
+A comunidade não tem água encanada.,A comunidade está privada de água tratada.,1,lex
+O apoio financeiro da matriz está condicionado aos resultados do trimestre.,"Caso as metas não sejam batidas, os repasses vão cessar.",1,lex
+O ruído incômodo parou depois do reparo.,O ruído incômodo cessou.,1,lex
+O dermatologista disse para não se expor ao sol sem protetor.,Deve-se evitar exposição solar sem proteção.,1,lex
+O cliente não aceitou a proposta de empréstimo que o banco lhe ofereceu.,O cliente recusou a proposta.,1,lex
+"É melhor não comentarmos sobre esse assunto com ela, sussurrou João.",Ele sugeriu evitar um tópico sensível.,1,lex
+O professor recolheu os celulares dos alunos antes da prova.,Ele proibiu o uso de aparelhos eletrônicos durante o teste.,1,lex
+O time perdeu porque não teve oportunidades de gol.,Houve falta de oportunidades de gol.,1,lex
+A esteira rolante desliga sozinha após cinco minutos de inatividade.,O equipamento vai parar automaticamente.,1,lex
+O réu não confessou o delito durante o interrogatório.,O réu vai negar o delito.,1,lex
+A mulher na sociedade opressora não tem direito ao voto.,A mulher está privada de direitos políticos.,1,lex
+O manual do carro novo recomenda dirigir em baixa rotação no início.,O motorista deve evitar acelerar muito.,1,lex
+Ele leu a notícia terrível sem derramar uma única lágrima.,Ele conseguiu resistir ao choro.,1,lex
+O manual instrui a não expor o aparelho à umidade.,Deve-se evitar expor o aparelho à umidade.,1,lex
+O sinal vermelho indica que os carros não devem passar.,Os motoristas devem evitar passar no sinal vermelho.,1,lex
+A entidade moveu ação contra a licença ambiental.,A entidade vai se opor à licença.,1,lex
+A biblioteca central ficará em reforma por seis meses.,Os estudantes estarão privados de seu local de estudo principal.,1,lex
+A festa ficou sem graça porque o anfitrião adoeceu.,A ausência do anfitrião tornou a festa sem graça.,1,lex
+O sistema imunológico identificou o medicamento como uma ameaça.,As defesas do corpo podem rejeitar a droga.,1,lex
+O computador travou e não responde mais.,O computador vai parar de responder.,1,lex
+A empresa não tem capital de giro há meses.,A empresa está privada de recursos financeiros.,1,lex
+O tratado internacional condena veementemente o uso de armas químicas.,O acordo proíbe esse tipo de armamento.,1,lex
+O manual técnico proíbe terminantemente ligações incorretas.,Ligações incorretas são de maneira nenhuma autorizadas.,1,lex
+Os doentes na fila do SUS não recebem tratamento.,Os doentes estão privados de cuidado médico.,1,lex
+A testemunha-chave não foi localizada pela polícia.,A testemunha-chave permanece ausente.,1,lex
+A comunidade lutou contra a construção da usina.,A comunidade vai se opor à construção.,1,lex
+Os idosos no asilo abandonado não recebem visitas.,Os idosos estão privados de companhia familiar.,1,lex
+O médico recomendou uma dieta com baixo teor de sódio.,O paciente deve evitar sal.,1,lex
+Todos os ingressos foram vendidos em poucos minutos.,Quem não comprou logo está sem chance de entrar.,1,lex
+A corte suprema julgou improcedente o recurso do acusado.,Os ministros vieram a rejeitar o pedido de revisão do caso.,1,lex
+O tratado de não proliferação veda testes nucleares.,Testes nucleares são de forma alguma autorizados.,1,lex
+O zumbido no ouvido que a incomodava há semanas simplesmente sumiu.,O incômodo cessou espontaneamente.,1,lex
+O corte de energia afetou todo o bairro.,Os moradores estão privados de eletricidade.,1,lex
+O produto não funciona sem a bateria.,A ausência de bateria impede o funcionamento.,1,lex
+O tratamento não surtiu efeito porque o paciente não o seguiu.,A ausência de adesão ao tratamento anulou seu efeito.,1,lex
+O caminhoneiro fez uma curva suave para a esquerda.,Ele conseguiu evitar o buraco na pista.,1,lex
+O regulamento elimina candidatos com antecedentes.,Candidatos com antecedentes serão excluídos.,1,lex
+O condomínio não autoriza mudanças na fachada.,O condomínio vai proibir alterações na fachada.,1,lex
+O aviso no elevador indica que seu uso é vetado em caso de incêndio.,É proibido utilizar o elevador durante um sinistro.,1,lex
+O grupo de WhatsApp removeu o membro que não seguia as regras de convivência.,O administrador decidiu excluir a pessoa.,1,lex
+As populações indígenas não têm acesso à terra.,As populações estão privadas de seu território.,1,lex
+O médico contraindicou alimentos com glúten.,O médico vai proibir glúten.,1,lex
+O grupo removeu o membro que não seguia as regras.,O membro será excluído do grupo.,1,lex
+O material não derreteu em altas temperaturas.,O material vai resistir ao calor.,1,lex
+A lista final não contém os nomes dos reprovados.,Os reprovados serão excluídos da lista.,1,lex
+O novo sistema de segurança bloqueou o acesso ao servidor antigo.,Os usuários foram privados de usar a plataforma anterior.,1,lex
+O ônibus só embarca passageiros no ponto oficial designado.,O motorista não vai parar em qualquer lugar.,1,lex
+O último voo partiu e não há outros até amanhã.,Os passageiros estão sem chance de sair hoje.,1,lex
+A assembleia votou contra a emenda constitucional.,Os parlamentares vieram a rejeitar a proposta.,1,lex
+Os trabalhadores sem contrato não têm férias remuneradas.,Os trabalhadores estão privados de direitos trabalhistas.,1,lex
+O edital do concurso público especifica que candidatos com parentes em cargos de chefia não podem se inscrever.,O concurso proíbe a inscrição de pessoas com parentes em cargos de chefia.,1,lex
+O coração do paciente sofreu uma fibrilação ventricular.,O órgão pode parar de bater.,1,lex
+A escola pública não tem biblioteca.,A escola está privada de acervo bibliográfico.,1,lex
+A empresa instalou um novo sistema de firewall.,Eles buscam evitar ataques cibernéticos.,1,lex
+O paciente chegou sem sinais vitais à emergência.,O paciente está sem chance de reanimação.,1,lex
+As empresas alvo de sanções não podem negociar.,As empresas estão privadas de comércio exterior.,1,lex
+O filtro de spam identificou a mensagem como potencialmente perigosa.,O sistema vai rejeitar aquele e-mail.,1,lex
+O paciente em coma não tem consciência do ambiente.,O paciente está privado de consciência.,1,lex
+O código florestal proíbe desmatamento em APP.,Desmatamento em APP é de forma alguma legal.,1,lex
+A linha de produção da fábrica ficou ociosa durante a greve.,A produção parou por tempo indeterminado.,1,lex
+O contrato não permite sublocação do imóvel.,O contrato vai proibir a sublocação.,1,lex
+A empresa não aceitou a mercadoria com defeito.,A empresa vai recusar a mercadoria.,1,lex
+O réu não compareceu ao julgamento marcado.,Houve ausência do réu no julgamento.,1,lex
+O processo está parado porque falta a assinatura do gestor.,A ausência da assinatura paralisa o processo.,1,lex
+O governo lançou uma campanha de vacinação em massa.,Eles esperam evitar uma epidemia.,1,lex
+A empresa não permite home office para estagiários.,A empresa vai proibir home office.,1,lex
+O pai fechou o portão para que a criança não fosse para a rua.,Ele quis evitar que o filho se perdesse.,1,lex
+O manual do produto contraindica uso contínuo.,O uso contínuo é de forma alguma recomendado.,1,lex
+O regulamento do concurso anula candidaturas irregulares.,Candidaturas irregulares são de forma alguma válidas.,1,lex
+O hospital tem uma política de não aceitar presentes em dinheiro dos pacientes.,A instituição vai recusar qualquer gratificação em espécie.,1,lex
+O cachorro passou dois dias trancado sozinho.,O animal ficou privado de companhia.,1,lex
+"O médico foi enfático: ""Nada de alimentos sólidos nas próximas 24 horas"".",Ele proibiu a ingestão de comida.,1,lex
+As mulheres naquela cultura não têm direito à herança.,As mulheres estão privadas de direitos sucessórios.,1,lex
+O contrato estabelece que não se deve revelar segredos industriais.,As partes devem evitar revelar segredos industriais.,1,lex
+A lei federal restringe a venda de bebidas alcoólicas para menores de 18 anos.,A legislação proíbe a comercialização para adolescentes.,1,lex
+As inscrições foram encerradas há uma hora.,Os candidatos tardios estão sem chance de se inscrever.,1,lex
+A planta está em um vaso dentro de um escritório sem janelas.,Ela está privada de luz solar direta.,1,lex
+O conselho editorial devolveu o manuscrito ao autor sem feedback.,Eles decidiram rejeitar a obra.,1,lex
+A cidade não tem sistema de esgoto adequado.,A cidade está privada de saneamento básico.,1,lex
+O time perdeu de 5x0 no primeiro jogo e não avança na competição.,O time está sem chance de classificação.,1,lex
+A chuva de meteoros foi tão intensa que as pessoas paravam nas ruas para observar.,O fenômeno fez as pessoas pararem para olhar.,1,lex
+A lei veda a venda de álcool para menores.,A lei vai proibir a venda para menores.,1,lex
+A justiça determinou o bloqueio de todos os bens do investigado.,Ele ficou privado de acessar suas contas bancárias.,1,lex
+A pesquisa de mercado descartou as respostas consideradas inconsistentes.,Os dados inválidos foram excluídos da análise.,1,lex
+A música acabou de repente.,A música vai parar de tocar.,1,lex
+O sinal na porta do laboratório mostra uma pessoa comendo dentro de um círculo vermelho.,É proibido consumir alimentos no local.,1,lex
+Os dois países concordaram em parar com os ataques militares.,Os ataques militares vão cessar.,1,lex
+O professor deixou claro que colar na prova resulta em expulsão.,Colar é de modo algum tolerado.,1,lex
+A empresa retirou o produto defeituoso do mercado.,O produto será excluído do mercado.,1,lex
+O atleta suportou a maratona até o final.,O atleta vai resistir à prova.,1,lex
+O mecânico aconselhou a não dirigir com pneu careca.,Deve-se evitar dirigir com pneu careca.,1,lex
+A máquina para de funcionar automaticamente após duas horas.,Sua operação cessa por segurança.,1,lex
+O software removeu o arquivo corrompido.,O arquivo será excluído do sistema.,1,lex
+O país não aceitou a ajuda humanitária oferecida.,O país vai recusar a ajuda.,1,lex
+Os manifestantes bloquearam a estrada e não deixaram os caminhões passarem.,Os manifestantes se opuseram à passagem dos caminhões.,1,lex
+O paciente surpreendeu os médicos ao se recuperar de uma infecção grave.,Seu organismo resistiu à doença.,1,lex
+A estrutura do prédio suportou o terremoto.,A estrutura vai resistir ao terremoto.,1,lex
+A máquina de cartão apitou três vezes e não completou a transação.,A operadora vai rejeitar o pagamento.,1,lex
+As crianças naquela região não frequentam a escola.,Elas estão privadas de educação formal.,1,lex
+Os refugiados não possuem passaportes válidos.,Os refugiados estão privados de documentação legal.,1,lex
+O regulamento escolar veda terminantemente bullying.,Bullying é de forma alguma tolerado.,1,lex
+O prisioneiro de guerra não tem contato com familiares.,O prisioneiro está privado de contato familiar.,1,lex
+O semáforo ficou vermelho e todos os carros reduziram a velocidade até zero.,O tráfego vai parar completamente.,1,lex
+O atleta não quis usar a substância proibida.,O atleta vai recusar a substância.,1,lex
+O celular desligou porque a bateria acabou.,Houve falta de carga na bateria.,1,lex
+O aluno foi reprovado por não frequentar as aulas.,A ausência nas aulas causou a reprovação.,1,lex
+"Ele ouviu todas as críticas calado, sem revidar.",Ele soube resistir ao impulso de responder.,1,lex
+O documento não tem valor legal sem a assinatura do responsável.,A ausência da rubrica o invalida.,1,lex
+A chuva forte impediu a continuidade do jogo.,O jogo vai parar por causa da chuva.,1,lex
+O professor riscou toda a introdução da minha tese com um X vermelho.,Ele veio a rejeitar minha linha de argumentação.,1,lex
+O consumidor devolveu o produto com defeito.,O consumidor vai rejeitar o produto.,1,lex
+A lista de convidados foi fechada e o nome do irmão do noivo não está nela.,O irmão do noivo foi excluído da lista de convidados.,1,lex
+O tratado internacional veda testes atômicos.,O tratado vai proibir testes atômicos.,1,lex
+A marca de celular é famosa por seus aparelhos quase indestrutíveis.,Seus produtos resistem a quedas e arranhões.,1,lex
